@@ -6,23 +6,22 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
     <item>
-      <title>Version 2.0.7</title>
-      <pubDate>Mon, 06 Jan 2026 00:14:00 +0000</pubDate>
-      <sparkle:version>6</sparkle:version>
-      <sparkle:shortVersionString>2.0.7</sparkle:shortVersionString>
+      <title>Version 2.0.8</title>
+      <pubDate>Mon, 06 Jan 2026 00:40:00 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>2.0.8</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h2>Changes in 2.0.7</h2>
+        <h2>Changes in 2.0.8</h2>
         <ul>
-          <li>Fixed window resize issues with apps that have minimum size constraints (Mail, Spark Mail)</li>
-          <li>Windows with minimum size limits are now handled gracefully instead of failing</li>
-          <li>Improved resize retry mechanism with better detection of app constraints</li>
+          <li>Fixed Screen Recording permission prompt appearing repeatedly on overlay open</li>
+          <li>Added debug logging for custom template coordinate debugging</li>
         </ul>
       ]]></description>
       <enclosure 
-        url="https://github.com/LevkaDev/rapto-releases/releases/download/v2.0.7/Rapto.dmg"
-        sparkle:edSignature="IOwEXVTpzKYBFf0m8keCEqCvJgfYXRYeeTzV3w8VY0biDMQFHAmcqCMoE/Hm++c5POMPbN7V8G0ydEz/o3STDQ=="
-        length="4463155"
+        url="https://github.com/LevkaDev/rapto-releases/releases/download/v2.0.8/Rapto.dmg"
+        sparkle:edSignature="IoN+PGv6wzyoGJ0Zda0nLCz9rHumTI3I+ZeT2qnjp/7XZZ28xDrmbv3MEsHzTkesFP/meqO0a1mvgKql5DYsAw=="
+        length="4465791"
         type="application/octet-stream"/>
     </item>
   </channel>
