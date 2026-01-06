@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Rapto Updates</title>
+    <link>https://rapto.app</link>
+    <description>Most recent updates to Rapto</description>
+    <language>en</language>
+    <item>
+      <title>Version 2.0.7</title>
+      <pubDate>Mon, 06 Jan 2026 00:14:00 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>2.0.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>Changes in 2.0.7</h2>
+        <ul>
+          <li>Fixed window resize issues with apps that have minimum size constraints (Mail, Spark Mail)</li>
+          <li>Windows with minimum size limits are now handled gracefully instead of failing</li>
+          <li>Improved resize retry mechanism with better detection of app constraints</li>
+        </ul>
+      ]]></description>
+      <enclosure 
+        url="https://github.com/LevkaDev/rapto-releases/releases/download/v2.0.7/Rapto.dmg"
+        sparkle:edSignature="IOwEXVTpzKYBFf0m8keCEqCvJgfYXRYeeTzV3w8VY0biDMQFHAmcqCMoE/Hm++c5POMPbN7V8G0ydEz/o3STDQ=="
+        length="4463155"
+        type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
