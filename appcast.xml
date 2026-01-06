@@ -62,5 +62,20 @@
                        sparkle:edSignature="dZzh6ZOmaZPq8F5Wy1wbpQxXSZI7tMlfYcS3GlVQ1caafH2Sfb4D9VKC5Z/ehyDM1WFxi5/GoB/HGEoZ9sMDCw==" length="4465928"
                        type="application/octet-stream" />
         </item>
+        <item>
+            <title>Версия 5.11.1</title>
+            <description><![CDATA[
+
+### Улучшения
+- Улучшено диагностическое логирование для отладки проблем с превью окон
+            ]]></description>
+            <pubDate>Tue, 06 Jan 2026 17:45:43 +0100</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>5.11.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.11.1/Rapto.dmg"
+                       sparkle:edSignature="Tcqxt9LGeiW+28N7/rR4GjU2H/rtVBJtQSbYPNzOLuInalhkPNLCc55f//0OcgZn9/BtMIGcRpPKHKK34dCFAw==" length="4469951"
+                       type="application/octet-stream" />
+        </item>
   </channel>
 </rss>
