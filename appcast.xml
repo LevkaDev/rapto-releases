@@ -94,5 +94,21 @@
                        sparkle:edSignature="pkfiKFwH6pFSpyyfkvAeXUQnCLMjlPQbp/FNn4PBLXBjPS6ZPLUIGHHPWjfgt6yYXF6g1PwwkByBnLY6ZrYbAA==" length="4470711"
                        type="application/octet-stream" />
         </item>
+        <item>
+            <title>Версия 5.12</title>
+            <description><![CDATA[
+        <h2>Исправления</h2>
+        <ul>
+          <li>Minor bug fixes</li>
+        </ul>
+            ]]></description>
+            <pubDate>Tue, 06 Jan 2026 23:04:00 +0100</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>5.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.12/Rapto.dmg"
+                       sparkle:edSignature="7WLxQnjtzwwGaxeVkdHzg0c69SgzlApud9VAiwukONHWL0o+1/yoEv2bJ5KJi+b6GJMkoSfM/CUDN8Nr+1bSDQ==" length="4470680"
+                       type="application/octet-stream" />
+        </item>
   </channel>
 </rss>
