@@ -35,7 +35,7 @@
             <sparkle:shortVersionString>5.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.10/Rapto.dmg"
-                       sparkle:edSignature="sparkle:edSignature="ZcILlY61lS9lINdHpDgmpsYe9pLb9Ctc+t67pA7IEbMn513m0+/C6TN/9NQu38pxPjU204dQ0QEQZMX2GoyGDg==" length="4468048""
+                       sparkle:edSignature="ZcILlY61lS9lINdHpDgmpsYe9pLb9Ctc+t67pA7IEbMn513m0+/C6TN/9NQu38pxPjU204dQ0QEQZMX2GoyGDg=="
                        length="4468048"
                        type="application/octet-stream" />
         </item>
