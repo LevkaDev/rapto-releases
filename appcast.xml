@@ -6,22 +6,21 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
     <item>
-      <title>Version 2.0.8</title>
-      <pubDate>Mon, 06 Jan 2026 00:40:00 +0000</pubDate>
-      <sparkle:version>7</sparkle:version>
-      <sparkle:shortVersionString>2.0.8</sparkle:shortVersionString>
+      <title>Version 2.0.9</title>
+      <pubDate>Mon, 06 Jan 2026 11:15:00 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>2.0.9</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h2>Changes in 2.0.8</h2>
+        <h2>Changes in 2.0.9</h2>
         <ul>
-          <li>Fixed Screen Recording permission prompt appearing repeatedly on overlay open</li>
-          <li>Added debug logging for custom template coordinate debugging</li>
+          <li>Enhanced debug logging for custom zone coordinate diagnosis</li>
         </ul>
       ]]></description>
       <enclosure 
-        url="https://github.com/LevkaDev/rapto-releases/releases/download/v2.0.8/Rapto.dmg"
-        sparkle:edSignature="IoN+PGv6wzyoGJ0Zda0nLCz9rHumTI3I+ZeT2qnjp/7XZZ28xDrmbv3MEsHzTkesFP/meqO0a1mvgKql5DYsAw=="
-        length="4465791"
+        url="https://github.com/LevkaDev/rapto-releases/releases/download/v2.0.9/Rapto.dmg"
+        sparkle:edSignature="MnP+l1Xmd9lHA6BlnoCWYE3MOmQX61AE9UkankaewnRTJJsn7x7lIDSqiIoWLYVURK22WuAteztsMV4Zk4t9DA=="
+        length="4469716"
         type="application/octet-stream"/>
     </item>
   </channel>
