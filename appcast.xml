@@ -39,5 +39,23 @@
                        length="4468048"
                        type="application/octet-stream" />
         </item>
+        <item>
+            <title>Версия 5.11</title>
+            <description><![CDATA[
+
+### Исправления
+- Окно онбординга больше не перекрывает системные диалоги разрешений (Accessibility, Screen Recording)
+- Screen Recording диалог больше не показывается повторно после выбора пользователя
+- Превью окон в overlay показывают иконки приложений если разрешение Screen Recording не дано
+- Раздельные Bundle ID для Debug (app.rapto.mac.debug) и Release (app.rapto.mac) версий
+            ]]></description>
+            <pubDate>Tue, 06 Jan 2026 16:59:43 +0100</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>5.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.11/Rapto.dmg"
+                       sparkle:edSignature="dZzh6ZOmaZPq8F5Wy1wbpQxXSZI7tMlfYcS3GlVQ1caafH2Sfb4D9VKC5Z/ehyDM1WFxi5/GoB/HGEoZ9sMDCw==" length="4465928"
+                       type="application/octet-stream" />
+        </item>
   </channel>
 </rss>
