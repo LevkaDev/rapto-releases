@@ -81,11 +81,11 @@
         <item>
             <title>Версия 5.11.2</title>
             <description><![CDATA[
-
-### Исправлено
-- Исправлено повторное появление запроса Screen Recording при отказе пользователя
-- Превью окон теперь корректно показывают иконки приложений без разрешения
-            ]]></description>
+        <h2>Исправлено</h2>
+        <ul>
+          <li>Исправлено повторное появление запроса Screen Recording при отказе пользователя</li>
+          <li>Превью окон теперь корректно показывают иконки приложений без разрешения</li>
+        </ul>
             <pubDate>Tue, 06 Jan 2026 18:07:41 +0100</pubDate>
             <sparkle:version>18</sparkle:version>
             <sparkle:shortVersionString>5.11.2</sparkle:shortVersionString>
