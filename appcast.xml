@@ -94,5 +94,28 @@
                        sparkle:edSignature="869blJ02gNqyPPXK8fz8LTXmprmhDUSY6y2rQvBz6CwtHgmz3T1L+DmfmQ8AeQlWy9/l6Kx5+dONVYRS/o+SBA==" length="5177188"
                        type="application/octet-stream" />
         </item>
+        <item>
+            <title>Версия 5.15</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <ul>
+          <li>Toggle Group Indicators hotkey (Ctrl+Opt+I) — hide/show group badges when they obstruct UI</li>
+          <li>Group indicator position setting — choose left or right corner in Settings</li>
+        </ul>
+        <h2>Improvements</h2>
+        <ul>
+          <li>Drag to Snap: larger activation zones at screen edges — easier to snap windows</li>
+          <li>Added bottom half snap zone when dragging windows to the bottom edge</li>
+          <li>Redesigned custom layout creator — modern look with animations, gradients, and visual feedback</li>
+        </ul>
+            ]]></description>
+            <pubDate>Thu, 08 Jan 2026 14:54:04 +0100</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>5.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.15/Rapto.dmg"
+                       sparkle:edSignature="x7f2d51oEyN4AbDpK+czcolhYNI0ZPguCsqaJu83ZZKsIFMIPS6C+Y1YhctEvxX9Q/1D60ABv826YiWxAwZWDA==" length="5263271"
+                       type="application/octet-stream" />
+        </item>
   </channel>
 </rss>
