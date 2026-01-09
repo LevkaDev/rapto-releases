@@ -145,5 +145,46 @@
                        sparkle:edSignature="GSI5ue+4m4rr2r0pOCnWVy5C6b4rls0LRzbf+r5Qqh6MdyrFO/Q6DW88KGv7Zo8M4xlHXrlDE2+BYylJr8sdCw==" length="5270489"
                        type="application/octet-stream" />
         </item>
+        <item>
+            <title>Версия 5.17</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <ul>
+          <li>**Group/Ungroup hotkey (Ctrl+Shift+G)** — manually group or ungroup windows of the same app</li>
+          <li>**Move window hotkey (Opt+Shift+Arrows)** — move window to adjacent slot without swapping</li>
+          <li>**Drag to move window** — drag window to another slot with Shift held (or without, if configured)</li>
+          <li>Toggle Group Indicators hotkey (Ctrl+Opt+I) — hide/show group badges when they obstruct UI</li>
+          <li>Group indicator position setting — choose left or right corner in Settings</li>
+        </ul>
+        <h2>Improvements</h2>
+        <ul>
+          <li>**Smart window distribution** — windows are now distributed evenly across slots regardless of app</li>
+          <li>**Manual mode improved** — windows of the same app no longer auto-group (easier multi-Finder workflows)</li>
+          <li>Two Finder/Terminal windows now appear side by side (easier for copy/paste workflows)</li>
+          <li>Drag to Snap: larger activation zones at screen edges — easier to snap windows</li>
+          <li>Added bottom half snap zone when dragging windows to the bottom edge</li>
+          <li>Redesigned custom layout creator — modern look with animations, gradients, and visual feedback</li>
+        </ul>
+        <h2>Fixes</h2>
+        <ul>
+          <li>Fixed Auto-tiling not distributing windows when opening multiple windows of the same app</li>
+          <li>Fixed Auto-tiling not resizing windows properly when closing them — remaining windows now redistribute evenly</li>
+          <li>Fixed group indicator showing total window count instead of windows in that specific slot</li>
+          <li>Fixed window positioning failures during redistribution after closing windows</li>
+          <li>Fixed last remaining window going to side panel instead of center when closing other windows</li>
+          <li>Fixed windows disappearing from management after connecting/disconnecting monitors</li>
+          <li>Improved stability when displays are rapidly connected or disconnected</li>
+          <li>Fixed swapping window from a group moving the entire group instead of just that window</li>
+          <li>Fixed windows staying misaligned after being dragged and returned to their slot</li>
+        </ul>
+            ]]></description>
+            <pubDate>Sat, 10 Jan 2026 00:12:52 +0100</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>5.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.17/Rapto.dmg"
+                       sparkle:edSignature="yL+9SFc8V6tf3SxVrbTb5EE89kgerMzWkJYA6wzd6RYrNXAt7Ie04cECA38lcrh7hpwyGgRlK6BaHDr9IbnuCA==" length="5363291"
+                       type="application/octet-stream" />
+        </item>
   </channel>
 </rss>
