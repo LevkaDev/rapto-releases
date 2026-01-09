@@ -117,5 +117,33 @@
                        sparkle:edSignature="x7f2d51oEyN4AbDpK+czcolhYNI0ZPguCsqaJu83ZZKsIFMIPS6C+Y1YhctEvxX9Q/1D60ABv826YiWxAwZWDA==" length="5263271"
                        type="application/octet-stream" />
         </item>
+        <item>
+            <title>Версия 5.16</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <ul>
+          <li>Toggle Group Indicators hotkey (Ctrl+Opt+I) — hide/show group badges when they obstruct UI</li>
+          <li>Group indicator position setting — choose left or right corner in Settings</li>
+        </ul>
+        <h2>Improvements</h2>
+        <ul>
+          <li>Drag to Snap: larger activation zones at screen edges — easier to snap windows</li>
+          <li>Added bottom half snap zone when dragging windows to the bottom edge</li>
+          <li>Redesigned custom layout creator — modern look with animations, gradients, and visual feedback</li>
+        </ul>
+        <h2>Fixes</h2>
+        <ul>
+          <li>Fixed windows disappearing from management after connecting/disconnecting monitors</li>
+          <li>Improved stability when displays are rapidly connected or disconnected</li>
+        </ul>
+            ]]></description>
+            <pubDate>Fri, 09 Jan 2026 15:07:17 +0100</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>5.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.16/Rapto.dmg"
+                       sparkle:edSignature="GSI5ue+4m4rr2r0pOCnWVy5C6b4rls0LRzbf+r5Qqh6MdyrFO/Q6DW88KGv7Zo8M4xlHXrlDE2+BYylJr8sdCw==" length="5270489"
+                       type="application/octet-stream" />
+        </item>
   </channel>
 </rss>
