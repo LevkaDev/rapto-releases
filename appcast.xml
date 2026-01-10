@@ -8,14 +8,13 @@
         <item>
             <title>Версия 5.20</title>
             <description><![CDATA[
-        <h2>New</h2>
-        <h2>Improvements</h2>
-        <h2>Fixes</h2>
-            ]]></description>
+        <h2>Fixes</h2><ul><li>Minor bug fixes</li></ul>
+        
+        ]]></description>
             <pubDate>Sat, 10 Jan 2026 19:23:07 +0100</pubDate>
             <sparkle:version>28</sparkle:version>
             <sparkle:shortVersionString>5.20</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.20/Rapto.dmg"
                        sparkle:edSignature="RWI/u0kX+6zjlJCKZVDi/2CLU3PF4tSMYoV/8Ibc5dpBiewwE8IQwikr64qF+e+/zVovVLFg+pwFSFaWTVgTAQ==" length="5435669"
                        type="application/octet-stream" />
@@ -23,14 +22,13 @@
         <item>
             <title>Версия 5.19</title>
             <description><![CDATA[
-        <h2>New</h2>
-        <h2>Improvements</h2>
-        <h2>Fixes</h2>
-            ]]></description>
+        <h2>Fixes</h2><ul><li>Minor bug fixes</li></ul>
+        
+        ]]></description>
             <pubDate>Sat, 10 Jan 2026 18:44:33 +0100</pubDate>
             <sparkle:version>27</sparkle:version>
             <sparkle:shortVersionString>5.19</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.19/Rapto.dmg"
                        sparkle:edSignature="coGqlbAuj0QpfQLHsdVw6Lwt5avogwPT8PZV8NsAACwPVRxQ5WNsuRTCLUYUtVbBn0kDQI9fO7dtSi38OtyeCQ==" length="5434899"
                        type="application/octet-stream" />
@@ -38,7 +36,7 @@
         <item>
             <title>Версия 5.18</title>
             <description><![CDATA[
-        <h2>New</h2>
+        <h2>Fixes</h2><ul><li>Minor bug fixes</li></ul>
         <ul>
           <li><strong>Group/Ungroup hotkey (Ctrl+Shift+G)</strong> — manually group or ungroup windows of the same app</li>
           <li><strong>Move window hotkey (Opt+Shift+Arrows)</strong> — move window to adjacent slot without swapping</li>
@@ -46,7 +44,7 @@
           <li>Toggle Group Indicators hotkey (Ctrl+Opt+I) — hide/show group badges when they obstruct UI</li>
           <li>Group indicator position setting — choose left or right corner in Settings</li>
         </ul>
-        <h2>Improvements</h2>
+        
         <ul>
           <li><strong>Smart window distribution</strong> — windows are now distributed evenly across slots regardless of app</li>
           <li><strong>Manual mode improved</strong> — windows of the same app no longer auto-group (easier multi-Finder workflows)</li>
@@ -77,7 +75,7 @@
             <pubDate>Sat, 10 Jan 2026 16:45:35 +0100</pubDate>
             <sparkle:version>26</sparkle:version>
             <sparkle:shortVersionString>5.18</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.18/Rapto.dmg"
                        sparkle:edSignature="5VGwvN5KM4z1KUAG+n9Lma2bT8c5Vrq+/JKKaPi+3e7Rdogi1G5E80S5VgLnsXR/gMrOytptPcQy58tBcu1DDQ==" length="5406444"
                        type="application/octet-stream" />
@@ -112,7 +110,7 @@
             <pubDate>Tue, 06 Jan 2026 15:52:16 +0100</pubDate>
             <sparkle:version>15</sparkle:version>
             <sparkle:shortVersionString>5.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.10/Rapto.dmg"
                        sparkle:edSignature="ZcILlY61lS9lINdHpDgmpsYe9pLb9Ctc+t67pA7IEbMn513m0+/C6TN/9NQu38pxPjU204dQ0QEQZMX2GoyGDg=="
                        length="4468048"
@@ -135,7 +133,7 @@
             <pubDate>Tue, 06 Jan 2026 16:59:43 +0100</pubDate>
             <sparkle:version>16</sparkle:version>
             <sparkle:shortVersionString>5.11</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.11/Rapto.dmg"
                        sparkle:edSignature="dZzh6ZOmaZPq8F5Wy1wbpQxXSZI7tMlfYcS3GlVQ1caafH2Sfb4D9VKC5Z/ehyDM1WFxi5/GoB/HGEoZ9sMDCw==" length="4465928"
                        type="application/octet-stream" />
@@ -151,7 +149,7 @@
             <pubDate>Tue, 06 Jan 2026 17:45:43 +0100</pubDate>
             <sparkle:version>17</sparkle:version>
             <sparkle:shortVersionString>5.11.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.11.1/Rapto.dmg"
                        sparkle:edSignature="Tcqxt9LGeiW+28N7/rR4GjU2H/rtVBJtQSbYPNzOLuInalhkPNLCc55f//0OcgZn9/BtMIGcRpPKHKK34dCFAw==" length="4469951"
                        type="application/octet-stream" />
@@ -167,7 +165,7 @@
             <pubDate>Thu, 08 Jan 2026 13:04:09 +0100</pubDate>
             <sparkle:version>21</sparkle:version>
             <sparkle:shortVersionString>5.14</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.14/Rapto.dmg"
                        sparkle:edSignature="869blJ02gNqyPPXK8fz8LTXmprmhDUSY6y2rQvBz6CwtHgmz3T1L+DmfmQ8AeQlWy9/l6Kx5+dONVYRS/o+SBA==" length="5177188"
                        type="application/octet-stream" />
@@ -175,12 +173,12 @@
         <item>
             <title>Версия 5.15</title>
             <description><![CDATA[
-        <h2>New</h2>
+        <h2>Fixes</h2><ul><li>Minor bug fixes</li></ul>
         <ul>
           <li>Toggle Group Indicators hotkey (Ctrl+Opt+I) — hide/show group badges when they obstruct UI</li>
           <li>Group indicator position setting — choose left or right corner in Settings</li>
         </ul>
-        <h2>Improvements</h2>
+        
         <ul>
           <li>Drag to Snap: larger activation zones at screen edges — easier to snap windows</li>
           <li>Added bottom half snap zone when dragging windows to the bottom edge</li>
@@ -190,7 +188,7 @@
             <pubDate>Thu, 08 Jan 2026 14:54:04 +0100</pubDate>
             <sparkle:version>22</sparkle:version>
             <sparkle:shortVersionString>5.15</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.15/Rapto.dmg"
                        sparkle:edSignature="x7f2d51oEyN4AbDpK+czcolhYNI0ZPguCsqaJu83ZZKsIFMIPS6C+Y1YhctEvxX9Q/1D60ABv826YiWxAwZWDA==" length="5263271"
                        type="application/octet-stream" />
@@ -198,12 +196,12 @@
         <item>
             <title>Версия 5.16</title>
             <description><![CDATA[
-        <h2>New</h2>
+        <h2>Fixes</h2><ul><li>Minor bug fixes</li></ul>
         <ul>
           <li>Toggle Group Indicators hotkey (Ctrl+Opt+I) — hide/show group badges when they obstruct UI</li>
           <li>Group indicator position setting — choose left or right corner in Settings</li>
         </ul>
-        <h2>Improvements</h2>
+        
         <ul>
           <li>Drag to Snap: larger activation zones at screen edges — easier to snap windows</li>
           <li>Added bottom half snap zone when dragging windows to the bottom edge</li>
@@ -218,7 +216,7 @@
             <pubDate>Fri, 09 Jan 2026 15:07:17 +0100</pubDate>
             <sparkle:version>23</sparkle:version>
             <sparkle:shortVersionString>5.16</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.16/Rapto.dmg"
                        sparkle:edSignature="GSI5ue+4m4rr2r0pOCnWVy5C6b4rls0LRzbf+r5Qqh6MdyrFO/Q6DW88KGv7Zo8M4xlHXrlDE2+BYylJr8sdCw==" length="5270489"
                        type="application/octet-stream" />
@@ -226,7 +224,7 @@
         <item>
             <title>Версия 5.17</title>
             <description><![CDATA[
-        <h2>New</h2>
+        <h2>Fixes</h2><ul><li>Minor bug fixes</li></ul>
         <ul>
           <li><strong>Group/Ungroup hotkey (Ctrl+Shift+G)</strong> — manually group or ungroup windows of the same app</li>
           <li><strong>Move window hotkey (Opt+Shift+Arrows)</strong> — move window to adjacent slot without swapping</li>
@@ -234,7 +232,7 @@
           <li>Toggle Group Indicators hotkey (Ctrl+Opt+I) — hide/show group badges when they obstruct UI</li>
           <li>Group indicator position setting — choose left or right corner in Settings</li>
         </ul>
-        <h2>Improvements</h2>
+        
         <ul>
           <li><strong>Smart window distribution</strong> — windows are now distributed evenly across slots regardless of app</li>
           <li><strong>Manual mode improved</strong> — windows of the same app no longer auto-group (easier multi-Finder workflows)</li>
@@ -259,7 +257,7 @@
             <pubDate>Sat, 10 Jan 2026 00:12:52 +0100</pubDate>
             <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>5.17</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.17/Rapto.dmg"
                        sparkle:edSignature="yL+9SFc8V6tf3SxVrbTb5EE89kgerMzWkJYA6wzd6RYrNXAt7Ie04cECA38lcrh7hpwyGgRlK6BaHDr9IbnuCA==" length="5363291"
                        type="application/octet-stream" />
