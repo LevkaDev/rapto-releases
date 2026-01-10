@@ -150,16 +150,16 @@
             <description><![CDATA[
         <h2>New</h2>
         <ul>
-          <li>**Group/Ungroup hotkey (Ctrl+Shift+G)** — manually group or ungroup windows of the same app</li>
-          <li>**Move window hotkey (Opt+Shift+Arrows)** — move window to adjacent slot without swapping</li>
-          <li>**Drag to move window** — drag window to another slot with Shift held (or without, if configured)</li>
+          <li><strong>Group/Ungroup hotkey (Ctrl+Shift+G)</strong> — manually group or ungroup windows of the same app</li>
+          <li><strong>Move window hotkey (Opt+Shift+Arrows)</strong> — move window to adjacent slot without swapping</li>
+          <li><strong>Drag to move window</strong> — drag window to another slot with Shift held (or without, if configured)</li>
           <li>Toggle Group Indicators hotkey (Ctrl+Opt+I) — hide/show group badges when they obstruct UI</li>
           <li>Group indicator position setting — choose left or right corner in Settings</li>
         </ul>
         <h2>Improvements</h2>
         <ul>
-          <li>**Smart window distribution** — windows are now distributed evenly across slots regardless of app</li>
-          <li>**Manual mode improved** — windows of the same app no longer auto-group (easier multi-Finder workflows)</li>
+          <li><strong>Smart window distribution</strong> — windows are now distributed evenly across slots regardless of app</li>
+          <li><strong>Manual mode improved</strong> — windows of the same app no longer auto-group (easier multi-Finder workflows)</li>
           <li>Two Finder/Terminal windows now appear side by side (easier for copy/paste workflows)</li>
           <li>Drag to Snap: larger activation zones at screen edges — easier to snap windows</li>
           <li>Added bottom half snap zone when dragging windows to the bottom edge</li>
