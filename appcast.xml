@@ -6,6 +6,27 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.22</title>
+            <description><![CDATA[
+        <h2>Fixes</h2>
+        <ul>
+          <li>Fixed Auto-tiling not working with Terminal.app in release builds</li>
+          <li>Fixed timing issues that could cause window positioning to fail in some apps</li>
+        </ul>
+        <h2>Improvements</h2>
+        <ul>
+          <li>Performance and stability improvements</li>
+        </ul>
+            ]]></description>
+            <pubDate>Sun, 11 Jan 2026 00:54:57 +0100</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>5.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.22/Rapto.dmg"
+                       sparkle:edSignature="peGUGDAuCFRKh6ffnFUpKs5PfKkMhXSRaDKTjPbn8BFrK+fRwUvTJRRu/iyBHno8x4Ghy3lGPGEprxyw/50xCg==" length="5452682"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.21</title>
             <description><![CDATA[
         <h2>Fixes</h2>
