@@ -6,11 +6,19 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
-            <title>Версия 5.21</title>
+            <title>Version 5.21</title>
             <description><![CDATA[
-        <h2>New</h2>
-        <h2>Improvements</h2>
         <h2>Fixes</h2>
+        <ul>
+          <li>Fixed window highlight not updating when switching between windows of the same application</li>
+          <li>Fixed group indicators sometimes showing closed windows in Auto-tiling mode</li>
+          <li>Fixed snap-back positioning windows to wrong slots after rapid window changes</li>
+          <li>Fixed window resize instability with multiple windows from same app (e.g., iTerm2) in Auto-tiling mode</li>
+        </ul>
+        <h2>Improvements</h2>
+        <ul>
+          <li>Improved stability for Auto-tiling mode</li>
+        </ul>
             ]]></description>
             <pubDate>Sun, 11 Jan 2026 00:08:43 +0100</pubDate>
             <sparkle:version>29</sparkle:version>
