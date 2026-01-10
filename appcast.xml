@@ -5,266 +5,162 @@
     <link>https://rapto.app</link>
     <description>Most recent updates to Rapto</description>
     <language>en</language>
-        <item>
-            <title>Version 5.20</title>
-            <description><![CDATA[
-        <h2>Fixes</h2><ul><li>Stability improvements</li></ul>
-        
-        ]]></description>
-            <pubDate>Sat, 10 Jan 2026 19:23:07 +0100</pubDate>
-            <sparkle:version>28</sparkle:version>
-            <sparkle:shortVersionString>5.20</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.20/Rapto.dmg"
-                       sparkle:edSignature="RWI/u0kX+6zjlJCKZVDi/2CLU3PF4tSMYoV/8Ibc5dpBiewwE8IQwikr64qF+e+/zVovVLFg+pwFSFaWTVgTAQ==" length="5435669"
-                       type="application/octet-stream" />
-        </item>
-        <item>
-            <title>Version 5.19</title>
-            <description><![CDATA[
+    
+    <!-- v5.20 -->
+    <item>
+      <title>Version 5.20</title>
+      <description><![CDATA[
+        <h2>Improvements</h2>
+        <ul>
+          <li>Stability improvements</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 10 Jan 2026 19:23:07 +0100</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>5.20</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.20/Rapto.dmg"
+                 sparkle:edSignature="RWI/u0kX+6zjlJCKZVDi/2CLU3PF4tSMYoV/8Ibc5dpBiewwE8IQwikr64qF+e+/zVovVLFg+pwFSFaWTVgTAQ==" 
+                 length="5435669"
+                 type="application/octet-stream" />
+    </item>
+    
+    <!-- v5.19 -->
+    <item>
+      <title>Version 5.19</title>
+      <description><![CDATA[
         <h2>Fixes</h2>
         <ul>
           <li>Fixed Auto-tiling mode instability — windows no longer jump back unexpectedly after swaps</li>
           <li>Fixed keyboard swap not working in Auto-tiling mode</li>
           <li>Improved window position tracking — prevents repeated snap-back attempts</li>
         </ul>
-        ]]></description>
-            <pubDate>Sat, 10 Jan 2026 18:44:33 +0100</pubDate>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>5.19</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.19/Rapto.dmg"
-                       sparkle:edSignature="coGqlbAuj0QpfQLHsdVw6Lwt5avogwPT8PZV8NsAACwPVRxQ5WNsuRTCLUYUtVbBn0kDQI9fO7dtSi38OtyeCQ==" length="5434899"
-                       type="application/octet-stream" />
-        </item>
-        <item>
-            <title>Version 5.18</title>
-            <description><![CDATA[
-        <h2>Fixes</h2><ul><li>Stability improvements</li></ul>
+      ]]></description>
+      <pubDate>Sat, 10 Jan 2026 18:44:33 +0100</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>5.19</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.19/Rapto.dmg"
+                 sparkle:edSignature="coGqlbAuj0QpfQLHsdVw6Lwt5avogwPT8PZV8NsAACwPVRxQ5WNsuRTCLUYUtVbBn0kDQI9fO7dtSi38OtyeCQ==" 
+                 length="5434899"
+                 type="application/octet-stream" />
+    </item>
+    
+    <!-- v5.18 -->
+    <item>
+      <title>Version 5.18</title>
+      <description><![CDATA[
+        <h2>New</h2>
         <ul>
           <li><strong>Group/Ungroup hotkey (Ctrl+Shift+G)</strong> — manually group or ungroup windows of the same app</li>
           <li><strong>Move window hotkey (Opt+Shift+Arrows)</strong> — move window to adjacent slot without swapping</li>
-          <li><strong>Drag to move window</strong> — drag window to another slot with Shift held (or without, if configured)</li>
-          <li>Toggle Group Indicators hotkey (Ctrl+Opt+I) — hide/show group badges when they obstruct UI</li>
-          <li>Group indicator position setting — choose left or right corner in Settings</li>
+          <li><strong>Drag to move window</strong> — drag window to another slot</li>
+          <li>Toggle Group Indicators hotkey (Ctrl+Opt+I) — hide/show group badges</li>
+          <li>Group indicator position setting — choose left or right corner</li>
         </ul>
-        
+        <h2>Improvements</h2>
         <ul>
-          <li><strong>Smart window distribution</strong> — windows are now distributed evenly across slots regardless of app</li>
-          <li><strong>Manual mode improved</strong> — windows of the same app no longer auto-group (easier multi-Finder workflows)</li>
-          <li>Two Finder/Terminal windows now appear side by side (easier for copy/paste workflows)</li>
-          <li>Drag to Snap: larger activation zones at screen edges — easier to snap windows</li>
-          <li>Added bottom half snap zone when dragging windows to the bottom edge</li>
-          <li>Redesigned custom layout creator — modern look with animations, gradients, and visual feedback</li>
+          <li><strong>Smart window distribution</strong> — windows are distributed evenly across slots</li>
+          <li><strong>Manual mode improved</strong> — windows of the same app no longer auto-group</li>
+          <li>Two Finder/Terminal windows now appear side by side</li>
+          <li>Larger snap activation zones at screen edges</li>
+          <li>Redesigned custom layout creator</li>
         </ul>
         <h2>Fixes</h2>
         <ul>
-          <li>Fixed Auto-tiling not distributing windows when opening multiple windows of the same app</li>
-          <li>Fixed Auto-tiling not resizing windows properly when closing them — remaining windows now redistribute evenly</li>
-          <li>Fixed group indicator showing total window count instead of windows in that specific slot</li>
-          <li>Fixed window positioning failures during redistribution after closing windows</li>
-          <li>Fixed last remaining window going to side panel instead of center when closing other windows</li>
-          <li>Fixed windows disappearing from management after connecting/disconnecting monitors</li>
-          <li>Improved stability when displays are rapidly connected or disconnected</li>
-          <li>Fixed swapping window from a group moving the entire group instead of just that window</li>
-          <li>Fixed windows staying misaligned after being dragged and returned to their slot</li>
-          <li>Fixed group indicator not updating after window redistribution (still showed old count)</li>
-          <li>Fixed drag-to-move sometimes failing to resize window after moving it to another slot</li>
-          <li>Fixed dragging one window from a group incorrectly moving the entire group</li>
-          <li>Fixed windows not resizing after snap-back or swap operations</li>
-          <li>Fixed drag-and-drop of windows failing when window titles are empty (common in Cursor/Electron apps)</li>
-          <li>Fixed inability to drag windows to empty slots — now you can move windows to any unoccupied slot</li>
-        </ul>
-            ]]></description>
-            <pubDate>Sat, 10 Jan 2026 16:45:35 +0100</pubDate>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>5.18</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.18/Rapto.dmg"
-                       sparkle:edSignature="5VGwvN5KM4z1KUAG+n9Lma2bT8c5Vrq+/JKKaPi+3e7Rdogi1G5E80S5VgLnsXR/gMrOytptPcQy58tBcu1DDQ==" length="5406444"
-                       type="application/octet-stream" />
-        </item>
-        
-    <item>
-      <title>Version 2.0.9</title>
-      <pubDate>Mon, 06 Jan 2026 11:15:00 +0000</pubDate>
-      <sparkle:version>8</sparkle:version>
-      <sparkle:shortVersionString>2.0.9</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[
-        <h2>Changes in 2.0.9</h2>
-        <ul>
-          <li>Enhanced debug logging for custom zone coordinate diagnosis</li>
+          <li>Fixed Auto-tiling not distributing windows correctly</li>
+          <li>Fixed group indicator showing wrong count</li>
+          <li>Fixed keyboard swap for same-app windows (e.g., two Cursor windows)</li>
+          <li>Fixed drag-and-drop failing with empty window titles</li>
+          <li>Fixed inability to drag windows to empty slots</li>
         </ul>
       ]]></description>
-      <enclosure 
-        url="https://github.com/LevkaDev/rapto-releases/releases/download/v2.0.9/Rapto.dmg"
-        sparkle:edSignature="MnP+l1Xmd9lHA6BlnoCWYE3MOmQX61AE9UkankaewnRTJJsn7x7lIDSqiIoWLYVURK22WuAteztsMV4Zk4t9DA=="
-        length="4469716"
-        type="application/octet-stream"/>
+      <pubDate>Sat, 10 Jan 2026 16:45:35 +0100</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>5.18</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.18/Rapto.dmg"
+                 sparkle:edSignature="5VGwvN5KM4z1KUAG+n9Lma2bT8c5Vrq+/JKKaPi+3e7Rdogi1G5E80S5VgLnsXR/gMrOytptPcQy58tBcu1DDQ==" 
+                 length="5406444"
+                 type="application/octet-stream" />
     </item>
-        <item>
-            <title>Версия 5.10</title>
-            <description><![CDATA[
-        <h2>Исправлено</h2>
+    
+    <!-- v5.17 -->
+    <item>
+      <title>Version 5.17</title>
+      <description><![CDATA[
+        <h2>New</h2>
         <ul>
-          <li>Улучшена работа с некоторыми приложениями</li>
+          <li>Group/Ungroup hotkey — manually group or ungroup windows</li>
+          <li>Move window hotkey — move window to adjacent slot without swapping</li>
         </ul>
-            ]]></description>
-            <pubDate>Tue, 06 Jan 2026 15:52:16 +0100</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>5.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.10/Rapto.dmg"
-                       sparkle:edSignature="ZcILlY61lS9lINdHpDgmpsYe9pLb9Ctc+t67pA7IEbMn513m0+/C6TN/9NQu38pxPjU204dQ0QEQZMX2GoyGDg=="
-                       length="4468048"
-                       type="application/octet-stream" />
-        </item>
-        <item>
-            <title>Версия 5.11</title>
-            <description><![CDATA[
-        <h2>Улучшения</h2>
+        <h2>Improvements</h2>
         <ul>
-          <li>Улучшен процесс первого запуска приложения</li>
-          <li>Диалоги системных разрешений теперь отображаются корректно</li>
+          <li>Smart window distribution across slots</li>
+          <li>Larger snap activation zones at screen edges</li>
         </ul>
-        <h2>Исправлено</h2>
+        <h2>Fixes</h2>
         <ul>
-          <li>Окна приложений теперь всегда отображаются при выборе раскладки</li>
-          <li>Исправлено повторное появление запроса разрешений</li>
+          <li>Fixed Auto-tiling not distributing windows correctly</li>
+          <li>Fixed windows disappearing after monitor changes</li>
+          <li>Fixed swapping window from a group moving the entire group</li>
         </ul>
-            ]]></description>
-            <pubDate>Tue, 06 Jan 2026 16:59:43 +0100</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>5.11</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.11/Rapto.dmg"
-                       sparkle:edSignature="dZzh6ZOmaZPq8F5Wy1wbpQxXSZI7tMlfYcS3GlVQ1caafH2Sfb4D9VKC5Z/ehyDM1WFxi5/GoB/HGEoZ9sMDCw==" length="4465928"
-                       type="application/octet-stream" />
-        </item>
-        <item>
-            <title>Версия 5.11.1</title>
-            <description><![CDATA[
-        <h2>Улучшения</h2>
-        <ul>
-          <li>Улучшено диагностическое логирование для отладки проблем с превью окон</li>
-        </ul>
-            ]]></description>
-            <pubDate>Tue, 06 Jan 2026 17:45:43 +0100</pubDate>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>5.11.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.11.1/Rapto.dmg"
-                       sparkle:edSignature="Tcqxt9LGeiW+28N7/rR4GjU2H/rtVBJtQSbYPNzOLuInalhkPNLCc55f//0OcgZn9/BtMIGcRpPKHKK34dCFAw==" length="4469951"
-                       type="application/octet-stream" />
-        </item>
-        <item>
-            <title>Версия 5.14</title>
-            <description><![CDATA[
-        <h2>Исправления</h2>
-        <ul>
-          <li>Stability improvements</li>
-        </ul>
-            ]]></description>
-            <pubDate>Thu, 08 Jan 2026 13:04:09 +0100</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>5.14</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.14/Rapto.dmg"
-                       sparkle:edSignature="869blJ02gNqyPPXK8fz8LTXmprmhDUSY6y2rQvBz6CwtHgmz3T1L+DmfmQ8AeQlWy9/l6Kx5+dONVYRS/o+SBA==" length="5177188"
-                       type="application/octet-stream" />
-        </item>
-        <item>
-            <title>Версия 5.15</title>
-            <description><![CDATA[
-        <h2>Fixes</h2><ul><li>Stability improvements</li></ul>
-        <ul>
-          <li>Toggle Group Indicators hotkey (Ctrl+Opt+I) — hide/show group badges when they obstruct UI</li>
-          <li>Group indicator position setting — choose left or right corner in Settings</li>
-        </ul>
-        
-        <ul>
-          <li>Drag to Snap: larger activation zones at screen edges — easier to snap windows</li>
-          <li>Added bottom half snap zone when dragging windows to the bottom edge</li>
-          <li>Redesigned custom layout creator — modern look with animations, gradients, and visual feedback</li>
-        </ul>
-            ]]></description>
-            <pubDate>Thu, 08 Jan 2026 14:54:04 +0100</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>5.15</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.15/Rapto.dmg"
-                       sparkle:edSignature="x7f2d51oEyN4AbDpK+czcolhYNI0ZPguCsqaJu83ZZKsIFMIPS6C+Y1YhctEvxX9Q/1D60ABv826YiWxAwZWDA==" length="5263271"
-                       type="application/octet-stream" />
-        </item>
-        <item>
-            <title>Версия 5.16</title>
-            <description><![CDATA[
-        <h2>Fixes</h2><ul><li>Stability improvements</li></ul>
-        <ul>
-          <li>Toggle Group Indicators hotkey (Ctrl+Opt+I) — hide/show group badges when they obstruct UI</li>
-          <li>Group indicator position setting — choose left or right corner in Settings</li>
-        </ul>
-        
-        <ul>
-          <li>Drag to Snap: larger activation zones at screen edges — easier to snap windows</li>
-          <li>Added bottom half snap zone when dragging windows to the bottom edge</li>
-          <li>Redesigned custom layout creator — modern look with animations, gradients, and visual feedback</li>
-        </ul>
+      ]]></description>
+      <pubDate>Sat, 10 Jan 2026 00:12:52 +0100</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>5.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.17/Rapto.dmg"
+                 sparkle:edSignature="yL+9SFc8V6tf3SxVrbTb5EE89kgerMzWkJYA6wzd6RYrNXAt7Ie04cECA38lcrh7hpwyGgRlK6BaHDr9IbnuCA==" 
+                 length="5363291"
+                 type="application/octet-stream" />
+    </item>
+    
+    <!-- v5.16 -->
+    <item>
+      <title>Version 5.16</title>
+      <description><![CDATA[
         <h2>Fixes</h2>
         <ul>
           <li>Fixed windows disappearing from management after connecting/disconnecting monitors</li>
           <li>Improved stability when displays are rapidly connected or disconnected</li>
         </ul>
-            ]]></description>
-            <pubDate>Fri, 09 Jan 2026 15:07:17 +0100</pubDate>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>5.16</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.16/Rapto.dmg"
-                       sparkle:edSignature="GSI5ue+4m4rr2r0pOCnWVy5C6b4rls0LRzbf+r5Qqh6MdyrFO/Q6DW88KGv7Zo8M4xlHXrlDE2+BYylJr8sdCw==" length="5270489"
-                       type="application/octet-stream" />
-        </item>
-        <item>
-            <title>Версия 5.17</title>
-            <description><![CDATA[
-        <h2>Fixes</h2><ul><li>Stability improvements</li></ul>
+      ]]></description>
+      <pubDate>Fri, 09 Jan 2026 15:07:17 +0100</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>5.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.16/Rapto.dmg"
+                 sparkle:edSignature="GSI5ue+4m4rr2r0pOCnWVy5C6b4rls0LRzbf+r5Qqh6MdyrFO/Q6DW88KGv7Zo8M4xlHXrlDE2+BYylJr8sdCw==" 
+                 length="5270489"
+                 type="application/octet-stream" />
+    </item>
+    
+    <!-- v5.15 -->
+    <item>
+      <title>Version 5.15</title>
+      <description><![CDATA[
+        <h2>New</h2>
         <ul>
-          <li><strong>Group/Ungroup hotkey (Ctrl+Shift+G)</strong> — manually group or ungroup windows of the same app</li>
-          <li><strong>Move window hotkey (Opt+Shift+Arrows)</strong> — move window to adjacent slot without swapping</li>
-          <li><strong>Drag to move window</strong> — drag window to another slot with Shift held (or without, if configured)</li>
-          <li>Toggle Group Indicators hotkey (Ctrl+Opt+I) — hide/show group badges when they obstruct UI</li>
-          <li>Group indicator position setting — choose left or right corner in Settings</li>
+          <li>Toggle Group Indicators hotkey (Ctrl+Opt+I)</li>
+          <li>Group indicator position setting in Settings</li>
         </ul>
-        
+        <h2>Improvements</h2>
         <ul>
-          <li><strong>Smart window distribution</strong> — windows are now distributed evenly across slots regardless of app</li>
-          <li><strong>Manual mode improved</strong> — windows of the same app no longer auto-group (easier multi-Finder workflows)</li>
-          <li>Two Finder/Terminal windows now appear side by side (easier for copy/paste workflows)</li>
-          <li>Drag to Snap: larger activation zones at screen edges — easier to snap windows</li>
-          <li>Added bottom half snap zone when dragging windows to the bottom edge</li>
-          <li>Redesigned custom layout creator — modern look with animations, gradients, and visual feedback</li>
+          <li>Larger snap activation zones at screen edges</li>
+          <li>Bottom half snap zone when dragging to bottom edge</li>
+          <li>Redesigned custom layout creator</li>
         </ul>
-        <h2>Fixes</h2>
-        <ul>
-          <li>Fixed Auto-tiling not distributing windows when opening multiple windows of the same app</li>
-          <li>Fixed Auto-tiling not resizing windows properly when closing them — remaining windows now redistribute evenly</li>
-          <li>Fixed group indicator showing total window count instead of windows in that specific slot</li>
-          <li>Fixed window positioning failures during redistribution after closing windows</li>
-          <li>Fixed last remaining window going to side panel instead of center when closing other windows</li>
-          <li>Fixed windows disappearing from management after connecting/disconnecting monitors</li>
-          <li>Improved stability when displays are rapidly connected or disconnected</li>
-          <li>Fixed swapping window from a group moving the entire group instead of just that window</li>
-          <li>Fixed windows staying misaligned after being dragged and returned to their slot</li>
-        </ul>
-            ]]></description>
-            <pubDate>Sat, 10 Jan 2026 00:12:52 +0100</pubDate>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>5.17</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.17/Rapto.dmg"
-                       sparkle:edSignature="yL+9SFc8V6tf3SxVrbTb5EE89kgerMzWkJYA6wzd6RYrNXAt7Ie04cECA38lcrh7hpwyGgRlK6BaHDr9IbnuCA==" length="5363291"
-                       type="application/octet-stream" />
-        </item>
+      ]]></description>
+      <pubDate>Thu, 08 Jan 2026 14:54:04 +0100</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>5.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.15/Rapto.dmg"
+                 sparkle:edSignature="x7f2d51oEyN4AbDpK+czcolhYNI0ZPguCsqaJu83ZZKsIFMIPS6C+Y1YhctEvxX9Q/1D60ABv826YiWxAwZWDA==" 
+                 length="5263271"
+                 type="application/octet-stream" />
+    </item>
+    
   </channel>
 </rss>
