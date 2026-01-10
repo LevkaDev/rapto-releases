@@ -8,7 +8,7 @@
         <item>
             <title>Версия 5.20</title>
             <description><![CDATA[
-        <h2>Fixes</h2><ul><li>Minor bug fixes</li></ul>
+        <h2>Fixes</h2><ul><li>Stability improvements</li></ul>
         
         ]]></description>
             <pubDate>Sat, 10 Jan 2026 19:23:07 +0100</pubDate>
@@ -22,7 +22,7 @@
         <item>
             <title>Версия 5.19</title>
             <description><![CDATA[
-        <h2>Fixes</h2><ul><li>Minor bug fixes</li></ul>
+        <h2>Fixes</h2><ul><li>Stability improvements</li></ul>
         
         ]]></description>
             <pubDate>Sat, 10 Jan 2026 18:44:33 +0100</pubDate>
@@ -36,7 +36,7 @@
         <item>
             <title>Версия 5.18</title>
             <description><![CDATA[
-        <h2>Fixes</h2><ul><li>Minor bug fixes</li></ul>
+        <h2>Fixes</h2><ul><li>Stability improvements</li></ul>
         <ul>
           <li><strong>Group/Ungroup hotkey (Ctrl+Shift+G)</strong> — manually group or ungroup windows of the same app</li>
           <li><strong>Move window hotkey (Opt+Shift+Arrows)</strong> — move window to adjacent slot without swapping</li>
@@ -159,7 +159,7 @@
             <description><![CDATA[
         <h2>Исправления</h2>
         <ul>
-          <li>Minor bug fixes</li>
+          <li>Stability improvements</li>
         </ul>
             ]]></description>
             <pubDate>Thu, 08 Jan 2026 13:04:09 +0100</pubDate>
@@ -173,7 +173,7 @@
         <item>
             <title>Версия 5.15</title>
             <description><![CDATA[
-        <h2>Fixes</h2><ul><li>Minor bug fixes</li></ul>
+        <h2>Fixes</h2><ul><li>Stability improvements</li></ul>
         <ul>
           <li>Toggle Group Indicators hotkey (Ctrl+Opt+I) — hide/show group badges when they obstruct UI</li>
           <li>Group indicator position setting — choose left or right corner in Settings</li>
@@ -196,7 +196,7 @@
         <item>
             <title>Версия 5.16</title>
             <description><![CDATA[
-        <h2>Fixes</h2><ul><li>Minor bug fixes</li></ul>
+        <h2>Fixes</h2><ul><li>Stability improvements</li></ul>
         <ul>
           <li>Toggle Group Indicators hotkey (Ctrl+Opt+I) — hide/show group badges when they obstruct UI</li>
           <li>Group indicator position setting — choose left or right corner in Settings</li>
@@ -224,7 +224,7 @@
         <item>
             <title>Версия 5.17</title>
             <description><![CDATA[
-        <h2>Fixes</h2><ul><li>Minor bug fixes</li></ul>
+        <h2>Fixes</h2><ul><li>Stability improvements</li></ul>
         <ul>
           <li><strong>Group/Ungroup hotkey (Ctrl+Shift+G)</strong> — manually group or ungroup windows of the same app</li>
           <li><strong>Move window hotkey (Opt+Shift+Arrows)</strong> — move window to adjacent slot without swapping</li>
