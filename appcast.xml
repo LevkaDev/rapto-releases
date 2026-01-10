@@ -5,6 +5,54 @@
     <link>https://rapto.app</link>
     <description>Most recent updates to Rapto</description>
     <language>en</language>
+        <item>
+            <title>Версия 5.18</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <ul>
+          <li><strong>Group/Ungroup hotkey (Ctrl+Shift+G)</strong> — manually group or ungroup windows of the same app</li>
+          <li><strong>Move window hotkey (Opt+Shift+Arrows)</strong> — move window to adjacent slot without swapping</li>
+          <li><strong>Drag to move window</strong> — drag window to another slot with Shift held (or without, if configured)</li>
+          <li>Toggle Group Indicators hotkey (Ctrl+Opt+I) — hide/show group badges when they obstruct UI</li>
+          <li>Group indicator position setting — choose left or right corner in Settings</li>
+        </ul>
+        <h2>Improvements</h2>
+        <ul>
+          <li><strong>Smart window distribution</strong> — windows are now distributed evenly across slots regardless of app</li>
+          <li><strong>Manual mode improved</strong> — windows of the same app no longer auto-group (easier multi-Finder workflows)</li>
+          <li>Two Finder/Terminal windows now appear side by side (easier for copy/paste workflows)</li>
+          <li>Drag to Snap: larger activation zones at screen edges — easier to snap windows</li>
+          <li>Added bottom half snap zone when dragging windows to the bottom edge</li>
+          <li>Redesigned custom layout creator — modern look with animations, gradients, and visual feedback</li>
+        </ul>
+        <h2>Fixes</h2>
+        <ul>
+          <li>Fixed Auto-tiling not distributing windows when opening multiple windows of the same app</li>
+          <li>Fixed Auto-tiling not resizing windows properly when closing them — remaining windows now redistribute evenly</li>
+          <li>Fixed group indicator showing total window count instead of windows in that specific slot</li>
+          <li>Fixed window positioning failures during redistribution after closing windows</li>
+          <li>Fixed last remaining window going to side panel instead of center when closing other windows</li>
+          <li>Fixed windows disappearing from management after connecting/disconnecting monitors</li>
+          <li>Improved stability when displays are rapidly connected or disconnected</li>
+          <li>Fixed swapping window from a group moving the entire group instead of just that window</li>
+          <li>Fixed windows staying misaligned after being dragged and returned to their slot</li>
+          <li>Fixed group indicator not updating after window redistribution (still showed old count)</li>
+          <li>Fixed drag-to-move sometimes failing to resize window after moving it to another slot</li>
+          <li>Fixed dragging one window from a group incorrectly moving the entire group</li>
+          <li>Fixed windows not resizing after snap-back or swap operations</li>
+          <li>Fixed drag-and-drop of windows failing when window titles are empty (common in Cursor/Electron apps)</li>
+          <li>Fixed inability to drag windows to empty slots — now you can move windows to any unoccupied slot</li>
+        </ul>
+            ]]></description>
+            <pubDate>Sat, 10 Jan 2026 16:06:22 +0100</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>5.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.18/Rapto.dmg"
+                       sparkle:edSignature="PTlicQDNyLkseqWTSSlJe+Y7e61uNK9Kr3mAJaphG2kt6ygereSkgg0o7iw4jbxeyCMYk7AlVaHV0bWy/ujuDw==" length="5404349"
+                       type="application/octet-stream" />
+        </item>
+  </channel>
     <item>
       <title>Version 2.0.9</title>
       <pubDate>Mon, 06 Jan 2026 11:15:00 +0000</pubDate>
@@ -184,53 +232,6 @@
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.17/Rapto.dmg"
                        sparkle:edSignature="yL+9SFc8V6tf3SxVrbTb5EE89kgerMzWkJYA6wzd6RYrNXAt7Ie04cECA38lcrh7hpwyGgRlK6BaHDr9IbnuCA==" length="5363291"
-                       type="application/octet-stream" />
-        </item>
-        <item>
-            <title>Версия 5.18</title>
-            <description><![CDATA[
-        <h2>New</h2>
-        <ul>
-          <li><strong>Group/Ungroup hotkey (Ctrl+Shift+G)</strong> — manually group or ungroup windows of the same app</li>
-          <li><strong>Move window hotkey (Opt+Shift+Arrows)</strong> — move window to adjacent slot without swapping</li>
-          <li><strong>Drag to move window</strong> — drag window to another slot with Shift held (or without, if configured)</li>
-          <li>Toggle Group Indicators hotkey (Ctrl+Opt+I) — hide/show group badges when they obstruct UI</li>
-          <li>Group indicator position setting — choose left or right corner in Settings</li>
-        </ul>
-        <h2>Improvements</h2>
-        <ul>
-          <li><strong>Smart window distribution</strong> — windows are now distributed evenly across slots regardless of app</li>
-          <li><strong>Manual mode improved</strong> — windows of the same app no longer auto-group (easier multi-Finder workflows)</li>
-          <li>Two Finder/Terminal windows now appear side by side (easier for copy/paste workflows)</li>
-          <li>Drag to Snap: larger activation zones at screen edges — easier to snap windows</li>
-          <li>Added bottom half snap zone when dragging windows to the bottom edge</li>
-          <li>Redesigned custom layout creator — modern look with animations, gradients, and visual feedback</li>
-        </ul>
-        <h2>Fixes</h2>
-        <ul>
-          <li>Fixed Auto-tiling not distributing windows when opening multiple windows of the same app</li>
-          <li>Fixed Auto-tiling not resizing windows properly when closing them — remaining windows now redistribute evenly</li>
-          <li>Fixed group indicator showing total window count instead of windows in that specific slot</li>
-          <li>Fixed window positioning failures during redistribution after closing windows</li>
-          <li>Fixed last remaining window going to side panel instead of center when closing other windows</li>
-          <li>Fixed windows disappearing from management after connecting/disconnecting monitors</li>
-          <li>Improved stability when displays are rapidly connected or disconnected</li>
-          <li>Fixed swapping window from a group moving the entire group instead of just that window</li>
-          <li>Fixed windows staying misaligned after being dragged and returned to their slot</li>
-          <li>Fixed group indicator not updating after window redistribution (still showed old count)</li>
-          <li>Fixed drag-to-move sometimes failing to resize window after moving it to another slot</li>
-          <li>Fixed dragging one window from a group incorrectly moving the entire group</li>
-          <li>Fixed windows not resizing after snap-back or swap operations</li>
-          <li>Fixed drag-and-drop of windows failing when window titles are empty (common in Cursor/Electron apps)</li>
-          <li>Fixed inability to drag windows to empty slots — now you can move windows to any unoccupied slot</li>
-        </ul>
-            ]]></description>
-            <pubDate>Sat, 10 Jan 2026 16:06:22 +0100</pubDate>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>5.18</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.18/Rapto.dmg"
-                       sparkle:edSignature="PTlicQDNyLkseqWTSSlJe+Y7e61uNK9Kr3mAJaphG2kt6ygereSkgg0o7iw4jbxeyCMYk7AlVaHV0bWy/ujuDw==" length="5404349"
                        type="application/octet-stream" />
         </item>
   </channel>
