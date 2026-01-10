@@ -6,7 +6,7 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
-            <title>Версия 5.20</title>
+            <title>Version 5.20</title>
             <description><![CDATA[
         <h2>Fixes</h2><ul><li>Stability improvements</li></ul>
         
@@ -20,10 +20,14 @@
                        type="application/octet-stream" />
         </item>
         <item>
-            <title>Версия 5.19</title>
+            <title>Version 5.19</title>
             <description><![CDATA[
-        <h2>Fixes</h2><ul><li>Stability improvements</li></ul>
-        
+        <h2>Fixes</h2>
+        <ul>
+          <li>Fixed Auto-tiling mode instability — windows no longer jump back unexpectedly after swaps</li>
+          <li>Fixed keyboard swap not working in Auto-tiling mode</li>
+          <li>Improved window position tracking — prevents repeated snap-back attempts</li>
+        </ul>
         ]]></description>
             <pubDate>Sat, 10 Jan 2026 18:44:33 +0100</pubDate>
             <sparkle:version>27</sparkle:version>
@@ -34,7 +38,7 @@
                        type="application/octet-stream" />
         </item>
         <item>
-            <title>Версия 5.18</title>
+            <title>Version 5.18</title>
             <description><![CDATA[
         <h2>Fixes</h2><ul><li>Stability improvements</li></ul>
         <ul>
