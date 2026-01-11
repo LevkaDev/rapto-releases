@@ -6,6 +6,30 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.29</title>
+            <description><![CDATA[
+        <h2>Improvements</h2>
+        <ul>
+          <li>All keyboard shortcuts from both presets (Rapto and Vim Style) now register correctly</li>
+          <li>Added Focus Slots 1-9 shortcuts to quickly focus windows in specific grid positions</li>
+          <li>Added Restore Layout shortcut to settings for customization</li>
+          <li>All shortcuts can now be customized in Settings to avoid conflicts with other apps</li>
+        </ul>
+        <h2>Fixes</h2>
+        <ul>
+          <li>Fixed duplicate Focus Mode entry in hotkey settings</li>
+          <li>Fixed Vim Style preset shortcuts not using HJKL keys as expected</li>
+        </ul>
+            ]]></description>
+            <pubDate>Sun, 11 Jan 2026 16:01:06 +0100</pubDate>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>5.29</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.29/Rapto.dmg"
+                       sparkle:edSignature="CFe+hduzM0VUOfFEFUwxyZQTPNURpL4w19Zs3MnJ8NM60kMKpyQohfdORSkuzmiLKZ6sGYfDPFd8cLilE4J7DQ==" length="5513373"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.28</title>
             <description><![CDATA[
         <h2>Fixes</h2>
