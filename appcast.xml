@@ -6,6 +6,22 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.28</title>
+            <description><![CDATA[
+        <h2>Fixes</h2>
+        <ul>
+          <li>Fixed windows being accidentally moved when drawing custom focus zones in the overlay</li>
+        </ul>
+            ]]></description>
+            <pubDate>Sun, 11 Jan 2026 13:31:20 +0100</pubDate>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>5.28</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.28/Rapto.dmg"
+                       sparkle:edSignature="kHLKJwIHyTRkxvojc50KEmnd0zGeYc5e8aiA0ptiCxCyF7TcyKeFrTQrSVD4tsbWN9tHjXVpsKxLBa5cpABwCA==" length="5492304"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.27</title>
             <description><![CDATA[
         <h2>Improvements</h2>
