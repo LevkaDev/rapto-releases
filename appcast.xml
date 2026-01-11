@@ -6,6 +6,23 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.30</title>
+            <description><![CDATA[
+        <h2>Fixes</h2>
+        <ul>
+          <li>Windows that appear while you're on another desktop are now properly detected and assigned to empty slots when you return</li>
+          <li>Fixed issue where the same window could appear in multiple slot indicators after switching Spaces</li>
+        </ul>
+            ]]></description>
+            <pubDate>Sun, 11 Jan 2026 21:18:53 +0100</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>5.30</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.30/Rapto.dmg"
+                       sparkle:edSignature="PUzIDKFyD6sfWTbvb87yZY0HKKwq3aRqD847FwI5JY/P3x2sv4cAy9XgCc4FfgDalm9YL+v7HnWe9KNJ7M7lAA==" length="5518669"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.29</title>
             <description><![CDATA[
         <h2>Improvements</h2>
