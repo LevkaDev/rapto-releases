@@ -6,6 +6,28 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.27</title>
+            <description><![CDATA[
+        <h2>Improvements</h2>
+        <ul>
+          <li>Auto-tiling now preserves your custom window sizes when switching between Spaces</li>
+          <li>Manually resized windows stay at their adjusted size until you add or remove windows</li>
+        </ul>
+        <h2>Fixes</h2>
+        <ul>
+          <li>Fixed "Snap Back" toggle in Manual mode not being respected in some scenarios</li>
+          <li>Snap Back is now automatically enabled and hidden in settings when using multiple monitors (required for cross-screen window detection)</li>
+        </ul>
+            ]]></description>
+            <pubDate>Sun, 11 Jan 2026 12:02:09 +0100</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>5.27</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.27/Rapto.dmg"
+                       sparkle:edSignature="fTty4eqBCaRBjIcq/qz6UbEMJJVJO7GKVXI4wk8FppIjfq5bBiD6YGiXflkDPqYu4rfuc5FqPCSlErc1U4dJDA==" length="5491791"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.26</title>
             <description><![CDATA[
         <h2>New</h2>
