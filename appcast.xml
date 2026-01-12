@@ -6,6 +6,24 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.33</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <h2>Improvements</h2>
+        <h2>Fixes</h2>
+        <ul>
+          <li>Fixed layout selection not working in Manual mode after switching from Auto-tiling with no windows</li>
+        </ul>
+            ]]></description>
+            <pubDate>Mon, 12 Jan 2026 20:19:41 +0100</pubDate>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>5.33</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.33/Rapto.dmg"
+                       sparkle:edSignature="4VjfXeKzJkKXq6W2GQhwS2ohyypTBF7CpXYdrZH5QIVEb9jOuk5X2jRiq2tPq0ljScM1Rxa0NYhn7QN3Cfe1Aw==" length="5535339"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.32</title>
             <description><![CDATA[
         <h2>New</h2>
