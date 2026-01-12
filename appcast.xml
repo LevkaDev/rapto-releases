@@ -6,6 +6,29 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.34</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <h2>Improvements</h2>
+        <ul>
+          <li>Improved layout stability after switching Spaces or monitors</li>
+        </ul>
+        <h2>Fixes</h2>
+        <ul>
+          <li>Fixed snap indicator not appearing reliably in Drag-to-Snap mode</li>
+          <li>Fixed double-tap floating activation not working correctly on multi-monitor setups</li>
+          <li>Fixed layouts becoming unstable after long periods working on a different Space or monitor</li>
+        </ul>
+            ]]></description>
+            <pubDate>Tue, 13 Jan 2026 00:54:32 +0100</pubDate>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>5.34</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.34/Rapto.dmg"
+                       sparkle:edSignature="5Z4rE3by1BnUTsgr7kTlny8VtRUaTKY85cSHudIVevOL5g4Uc70SXGXi1WYrB4+bvWXf8xFggyQnfKRJjwARAQ==" length="5538323"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.33</title>
             <description><![CDATA[
         <h2>New</h2>
