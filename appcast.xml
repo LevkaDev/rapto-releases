@@ -6,6 +6,34 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.32</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <ul>
+          <li>New "Follow App to Monitor" setting: when enabled, new windows appear on the same monitor as existing app windows (enabled by default)</li>
+        </ul>
+        <h2>Improvements</h2>
+        <h2>Fixes</h2>
+        <ul>
+          <li>Fixed tiling mode not working when selected on empty screen — new windows are now properly tiled</li>
+          <li>Fixed "Follow App to Monitor" placing windows at wrong position on secondary monitors</li>
+          <li>Window resize no longer triggers the move-to-slot indicator (only actual window dragging does)</li>
+          <li>Fixed duplicate Focus Mode hotkey registration causing "ghost" shortcut that couldn't be changed</li>
+          <li>Fixed rare issue where windows from different apps could be incorrectly grouped together</li>
+          <li>Fixed source monitor not re-tiling after moving a window to another monitor</li>
+          <li>Fixed confusing "Focus Window" label in settings — now correctly shows "Toggle Focus Mode"</li>
+          <li>Fixed critical bug where holding Ctrl during window swap could accidentally trigger floating mode</li>
+        </ul>
+            ]]></description>
+            <pubDate>Mon, 12 Jan 2026 16:36:06 +0100</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>5.32</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.32/Rapto.dmg"
+                       sparkle:edSignature="RFJqJFt9c8t5nK8j3e/1AiTAAQuE6HyFF9mT+q8q026AcX7WyjHpIiwetLhbjqI8nR+i/wqatD/IgN0zhA5aAA==" length="5535332"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.30</title>
             <description><![CDATA[
         <h2>Fixes</h2>
