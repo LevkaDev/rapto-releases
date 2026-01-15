@@ -6,6 +6,24 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.38</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <h2>Improvements</h2>
+        <h2>Fixes</h2>
+        <ul>
+          <li>Fixed accidental window swaps triggering when you only click or select text</li>
+        </ul>
+            ]]></description>
+            <pubDate>Thu, 15 Jan 2026 20:43:26 +0100</pubDate>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>5.38</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.38/Rapto.dmg"
+                       sparkle:edSignature="p2gUsoklBMntX/PKiXfe6TvfZ5YTMe/KK50WZ8d1JSJ31oN/2fFaAnZtTw54JfnPUxXEm5DwzGpBZbLQ8jwZDg==" length="5571078"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.37</title>
             <description><![CDATA[
         <h2>New</h2>
