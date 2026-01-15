@@ -6,6 +6,24 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.37</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <h2>Improvements</h2>
+        <h2>Fixes</h2>
+        <ul>
+          <li>Fixed group indicators occasionally staying on screen after switching Spaces</li>
+        </ul>
+            ]]></description>
+            <pubDate>Thu, 15 Jan 2026 12:19:34 +0100</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>5.37</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.37/Rapto.dmg"
+                       sparkle:edSignature="jMfxtcFKjQPCjzLZ6SYiZa0HDZIWdhJDbNOA8jinXLWMXW8gwrmCh4pmfW0HMQeMVASQwe+trjsg9gHDIhayAA==" length="5570544"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.36</title>
             <description><![CDATA[
         <h2>New</h2>
