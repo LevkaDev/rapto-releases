@@ -6,6 +6,24 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.39</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <h2>Improvements</h2>
+        <h2>Fixes</h2>
+        <ul>
+          <li>Fixed terminal windows with identical titles not tiling correctly in Manual mode</li>
+        </ul>
+            ]]></description>
+            <pubDate>Sat, 17 Jan 2026 14:37:39 +0100</pubDate>
+            <sparkle:version>47</sparkle:version>
+            <sparkle:shortVersionString>5.39</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.39/Rapto.dmg"
+                       sparkle:edSignature="X/ce9yYNYh9qBtRGMshJRXPXCN35GSMutTbhEdZttu1HtY/eRaCnRfEjf3ZsRQKmJIk+stBNYDerSh/C0bShBw==" length="5572597"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.38</title>
             <description><![CDATA[
         <h2>New</h2>
