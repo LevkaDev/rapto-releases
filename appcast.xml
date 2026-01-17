@@ -6,6 +6,24 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.40</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <h2>Improvements</h2>
+        <h2>Fixes</h2>
+        <ul>
+          <li>Fixed Manual layouts getting replaced by the single-window auto layout after switching Desktops</li>
+        </ul>
+            ]]></description>
+            <pubDate>Sat, 17 Jan 2026 22:43:04 +0100</pubDate>
+            <sparkle:version>48</sparkle:version>
+            <sparkle:shortVersionString>5.40</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.40/Rapto.dmg"
+                       sparkle:edSignature="9zTHKEbLDwqDh56Z3eef9Z8tb4jMCiFOoT219tIe/wRkDlmZGUf1VD/sFOTGmh+fvC5nWj1H6H+Tpk0qaXqVAw==" length="5572670"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.39</title>
             <description><![CDATA[
         <h2>New</h2>
