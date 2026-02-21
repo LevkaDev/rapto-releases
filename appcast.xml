@@ -6,6 +6,22 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.43</title>
+            <description><![CDATA[
+        <h2>Fixes</h2>
+        <ul>
+          <li>Fixed new windows not filling empty slots in Manual mode — they opened at their old position instead</li>
+        </ul>
+            ]]></description>
+            <pubDate>Sat, 21 Feb 2026 08:01:22 +0100</pubDate>
+            <sparkle:version>51</sparkle:version>
+            <sparkle:shortVersionString>5.43</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.43/Rapto.dmg"
+                       sparkle:edSignature="o+GeLdiPtE9C8v5OMYs0a6j+UMCV85y+ehFDyciknyW8dah6EbTu+jwJHxjePA/1qIRzogNF5AImXt5CeCQfCw==" length="5566794"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.42</title>
             <description><![CDATA[
         <h2>Fixes</h2>
