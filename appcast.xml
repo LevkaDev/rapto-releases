@@ -6,6 +6,22 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.42</title>
+            <description><![CDATA[
+        <h2>Fixes</h2>
+        <ul>
+          <li>Fixed group indicator showing closed or non-existent apps in slots where they never were</li>
+        </ul>
+            ]]></description>
+            <pubDate>Sat, 21 Feb 2026 07:53:53 +0100</pubDate>
+            <sparkle:version>50</sparkle:version>
+            <sparkle:shortVersionString>5.42</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.42/Rapto.dmg"
+                       sparkle:edSignature="8mdgMOi+hJ7X5GWGbr62EVZUsdks04pSR3nX9NrkfxE+MJiJZcRnaO56TsuUeRIYmkNvfxYzAWLTREKWRqcbAg==" length="5566426"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.41</title>
             <description><![CDATA[
         <h2>New</h2>
