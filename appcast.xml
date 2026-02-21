@@ -6,6 +6,24 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.41</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <h2>Improvements</h2>
+        <h2>Fixes</h2>
+        <ul>
+          <li>Fixed group indicator staying visible on empty slots when windows were moved to another slot or monitor</li>
+        </ul>
+            ]]></description>
+            <pubDate>Sat, 21 Feb 2026 07:32:17 +0100</pubDate>
+            <sparkle:version>49</sparkle:version>
+            <sparkle:shortVersionString>5.41</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.41/Rapto.dmg"
+                       sparkle:edSignature="XOtQ1Z2Gw6aRRzi7GA20usdhuc3ynryr+BmJUWdriCgJxQU3dCJXzw4zF8DPRh2mYUOVfdK48Pb3UxH9oZREDQ==" length="5568009"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.40</title>
             <description><![CDATA[
         <h2>New</h2>
