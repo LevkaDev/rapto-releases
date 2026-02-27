@@ -6,6 +6,25 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.44</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <h2>Improvements</h2>
+        <h2>Fixes</h2>
+        <ul>
+          <li>Fixed phantom group indicators remaining on slots where no windows exist</li>
+          <li>Fixed group indicators incorrectly appearing on adjacent slots or other monitors</li>
+        </ul>
+            ]]></description>
+            <pubDate>Fri, 27 Feb 2026 18:01:30 +0100</pubDate>
+            <sparkle:version>52</sparkle:version>
+            <sparkle:shortVersionString>5.44</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.44/Rapto.dmg"
+                       sparkle:edSignature="PW+stTnZ0CDzaN8AkVgz0Xw0SE7zntK0z4trFhQpii1YpIcsBvp4F4AOtESZdymnAvf/d7ipd6JklbRPAq8KBQ==" length="5567953"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.43</title>
             <description><![CDATA[
         <h2>Fixes</h2>
