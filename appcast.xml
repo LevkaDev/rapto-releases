@@ -6,6 +6,24 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.45</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <h2>Improvements</h2>
+        <h2>Fixes</h2>
+        <ul>
+          <li>Fixed Restore Layout so it can recover mixed-up Manual layouts and put windows back into the correct slots more reliably</li>
+        </ul>
+            ]]></description>
+            <pubDate>Tue, 10 Mar 2026 14:20:49 +0100</pubDate>
+            <sparkle:version>53</sparkle:version>
+            <sparkle:shortVersionString>5.45</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.45/Rapto.dmg"
+                       sparkle:edSignature="l8o7gaCD14C2pZLWH6MqxebPwBIi3WTbf5gieizdmOOLWLzg/5isYLUgfrIfgh/OiUGyB7Wu69fKLedWA3hlCg==" length="5570550"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.44</title>
             <description><![CDATA[
         <h2>New</h2>
