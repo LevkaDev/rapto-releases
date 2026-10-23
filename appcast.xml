@@ -6,6 +6,24 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.46</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <ul>
+          <li>Rapto is now free. No trial, license key, or purchase is required</li>
+        </ul>
+        <h2>Improvements</h2>
+        <h2>Fixes</h2>
+            ]]></description>
+            <pubDate>Fri, 23 Oct 2026 16:11:39 +0200</pubDate>
+            <sparkle:version>54</sparkle:version>
+            <sparkle:shortVersionString>5.46</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.46/Rapto.dmg"
+                       sparkle:edSignature="DbYYr0gatXQ8dn4r6QhXWkkNLIh7RXQoAokpE6KxEHlJwHegI9QoxPSuql6hWnrD92BIBcTbudr5mSnf77tOAA==" length="5521691"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.45</title>
             <description><![CDATA[
         <h2>New</h2>
