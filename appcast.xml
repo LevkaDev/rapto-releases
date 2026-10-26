@@ -6,6 +6,34 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.47</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <ul>
+          <li>A bar in the menu bar lists your desktops and the apps open on each one. Click a number to switch to that desktop instantly, with no slide, or an app icon to open that app. Works on macOS 26 and macOS 27. Turn it off in Settings → General → Menu Bar.</li>
+          <li>Right-click a desktop in the bar to set its mode and layout, open the overlay, restore the layout, or open Settings.</li>
+          <li>On a MacBook with a notch, the desktops bar stays out of the way: point at the notch and it drops down below it. It also shows for a moment when you switch desktops. Choose Always, On Hover or Automatic in Settings → General → Menu Bar.</li>
+          <li>A "+" button at the end of the bar adds a desktop. Drop an app icon on it to move that app's window to a new desktop.</li>
+          <li>Drag an app icon in the bar onto another desktop to move that app's window there. You stay on the desktop you were on. Hold Option when you let go to go to that desktop with the window. To make going along the default, turn on "Go With Moved Window" in Settings → General → Menu Bar. Option then keeps you where you are. On a Manual desktop the window snaps into its old slot, or into a free one.</li>
+        </ul>
+        <h2>Improvements</h2>
+        <ul>
+          <li>While the desktops bar is on, the Rapto menu bar icon is hidden, since the bar has the same controls. You can bring the icon back in Settings → General → Menu Bar. It always comes back when the desktops bar is off.</li>
+        </ul>
+        <h2>Fixes</h2>
+        <ul>
+          <li>The desktops bar lists only open windows, not ones minimized to the Dock. Clicking a number switches to that desktop. Clicking an app icon opens that app there. Windows stay on their own desktop.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Mon, 26 Oct 2026 10:23:44 +0100</pubDate>
+            <sparkle:version>55</sparkle:version>
+            <sparkle:shortVersionString>5.47</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.47/Rapto.dmg"
+                       sparkle:edSignature="z3f5R0RhXKIE+jbh5mlFccljRDIWNijansyDGCcSh9vO/JUQWR22bvOsOcXQ9XQ1otieCI1YoGMXUrqO0kqXDQ==" length="5775642"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.46</title>
             <description><![CDATA[
         <h2>New</h2>
