@@ -6,6 +6,27 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.48</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <h2>Improvements</h2>
+        <ul>
+          <li>Getting ready for macOS 27: the + button in the desktops bar and the check marks in the Rapto menu now follow the changes in macOS 27.</li>
+        </ul>
+        <h2>Fixes</h2>
+        <ul>
+          <li>The desktops bar no longer stays on screen over full-screen apps and videos. It now hides with the menu bar and slides down with it when you move the pointer to the top edge.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Tue, 27 Oct 2026 14:22:39 +0100</pubDate>
+            <sparkle:version>56</sparkle:version>
+            <sparkle:shortVersionString>5.48</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.48/Rapto.dmg"
+                       sparkle:edSignature="McNf2m2oBJ1HeMJC7lb4xpd/YRR71ciNutfX0sSOZ/TikBAWqfZWq+DUUC7fzY3Qr7uBbeSSlo7Hhz59pyr1Aw==" length="5780203"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.47</title>
             <description><![CDATA[
         <h2>New</h2>
