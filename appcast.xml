@@ -6,6 +6,27 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.49</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <h2>Improvements</h2>
+        <ul>
+          <li>Rapto is much lighter on your Mac while you move the mouse, select text or drag windows.</li>
+        </ul>
+        <h2>Fixes</h2>
+        <ul>
+          <li>The active window border now fits snugly around rounded window corners, with no gaps.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Wed, 28 Oct 2026 12:47:39 +0100</pubDate>
+            <sparkle:version>57</sparkle:version>
+            <sparkle:shortVersionString>5.49</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.49/Rapto.dmg"
+                       sparkle:edSignature="1Qtd1ylWC/MAAKX0j9nuQ+RLd31zkGxE/CwYCJNY7dWu0+bnaQOmOtEdwWJ2NsRQa+AijUNt82HeO1rpvjKfCA==" length="5832963"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.48</title>
             <description><![CDATA[
         <h2>New</h2>
