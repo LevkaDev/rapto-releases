@@ -6,6 +6,23 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.51</title>
+            <description><![CDATA[
+        <h2>Fixes</h2>
+        <ul>
+          <li>Closing a desktop in Mission Control no longer shrinks your layout. Group badges stay in the corner of their slot instead of moving to the middle or disappearing.</li>
+          <li>The active window border and group badges no longer hang over Mission Control or stay behind in the wrong place after you leave it.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Thu, 29 Oct 2026 17:18:36 +0100</pubDate>
+            <sparkle:version>59</sparkle:version>
+            <sparkle:shortVersionString>5.51</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.51/Rapto.dmg"
+                       sparkle:edSignature="H2p2Nv3ASMlc2Tb21yr/TkA8YWnP6n37Z+sMxUEVLHeX9UeZgFNs5/u7LINghRftXVCsxz9jD/GWpe937QCqCA==" length="5816255"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.50</title>
             <description><![CDATA[
         <h2>Fixes</h2>
