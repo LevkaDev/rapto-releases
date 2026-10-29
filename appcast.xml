@@ -6,6 +6,24 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.50</title>
+            <description><![CDATA[
+        <h2>Fixes</h2>
+        <ul>
+          <li>A window set to appear on all desktops now shows in the desktops bar only on the desktop you're on, not on every desktop.</li>
+          <li>When you minimize a window to the Dock, its border disappears right away instead of lingering for a couple of seconds.</li>
+          <li>When you bring a minimized window back, its border shows up again right away, without switching to another window first.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Thu, 29 Oct 2026 16:37:46 +0100</pubDate>
+            <sparkle:version>58</sparkle:version>
+            <sparkle:shortVersionString>5.50</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.50/Rapto.dmg"
+                       sparkle:edSignature="BVM/SR9KVQck6Ehz8oJlr7LX9JbbNv/ptOwM2bAZCQRY5k9gTFPqrfe9HIlb8j0MgJ0g5rE+GWMgqcVSdwuyCA==" length="5831911"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.49</title>
             <description><![CDATA[
         <h2>New</h2>
