@@ -6,6 +6,22 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.52</title>
+            <description><![CDATA[
+        <h2>Fixes</h2>
+        <ul>
+          <li>Minor bug fixes and improvements.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Mon, 02 Nov 2026 23:18:16 +0100</pubDate>
+            <sparkle:version>60</sparkle:version>
+            <sparkle:shortVersionString>5.52</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.52/Rapto.dmg"
+                       sparkle:edSignature="MlgCuJiF0uN7hjVTUlgK96iFoV/IQcI3oKK8mJIP9w6lm1lI+2HE33BNIwVqG23eTfe5hILGpXXRDwpSrIA8Dw==" length="5816293"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.51</title>
             <description><![CDATA[
         <h2>Fixes</h2>
