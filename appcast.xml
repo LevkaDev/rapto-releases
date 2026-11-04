@@ -6,6 +6,25 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.53</title>
+            <description><![CDATA[
+        <h2>Improvements</h2>
+        <ul>
+          <li>Click an app icon in a group badge to switch straight to that window. Icons stay in place instead of shuffling around.</li>
+          <li>Scrolling over a group badge now follows your scroll direction: up switches to the window on the left, down to the one on the right.</li>
+          <li>Group badge in the way? Drag it aside to reach the buttons under it. It slides back on its own a couple of seconds after you move the pointer away.</li>
+          <li>Further performance improvements.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Wed, 04 Nov 2026 12:14:53 +0100</pubDate>
+            <sparkle:version>62</sparkle:version>
+            <sparkle:shortVersionString>5.53</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.53/Rapto.dmg"
+                       sparkle:edSignature="WJh7lvHxULGMDrVeHD7UNmCgoB8KADwJ+Wq7p8vS87i18DTjAlAJD/AjeJBhMECWGyhLXipGPytFojgHJPwnBw==" length="5851063"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.52</title>
             <description><![CDATA[
         <h2>Fixes</h2>
