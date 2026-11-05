@@ -6,6 +6,23 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.56</title>
+            <description><![CDATA[
+        <h2>Fixes</h2>
+        <ul>
+          <li>Switching to another user on your Mac and back no longer mixes up your windows. Rapto now waits until you return and keeps every window in its place.</li>
+          <li>Restarting Rapto no longer moves windows between slots. Each window stays in the slot where it already is.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Thu, 05 Nov 2026 21:45:43 +0100</pubDate>
+            <sparkle:version>65</sparkle:version>
+            <sparkle:shortVersionString>5.56</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.56/Rapto.dmg"
+                       sparkle:edSignature="GcToTu/RFM5T6T7NAeR7/aqG9tAxbuwai6kKmOFWv60XaQvj0R09LeCn+rkRVXgaGLxftvjvUDOKJdDP0EVTDg==" length="6109752"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.55</title>
             <description><![CDATA[
         <h2>New</h2>
