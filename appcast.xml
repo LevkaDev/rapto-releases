@@ -10,9 +10,9 @@
             <description><![CDATA[
         <h2>Fixes</h2>
         <ul>
-          <li>After restarting your Mac, Rapto sometimes forgot the mode and layout of your desktops and set them to None. Rapto now recognizes your display after a restart, and brings back the settings it lost this way the first time you open the new version.</li>
-          <li>Dragging a Zen window to another desktop in the desktops bar now works. Rapto used to grab the page instead of the window, so the window stayed where it was.</li>
-          <li>The desktops bar now shows the right icon for apps like Arc that set their own icon after opening. Before, it could keep showing a blank dark square until you reopened the app.</li>
+          <li>After restarting your Mac, your desktops keep their mode and layout.</li>
+          <li>You can now drag Zen windows to another desktop in the desktops bar.</li>
+          <li>App icons in the desktops bar, like Arc's, no longer turn into a dark square.</li>
         </ul>
             ]]></description>
             <pubDate>Fri, 06 Nov 2026 00:20:10 +0100</pubDate>
