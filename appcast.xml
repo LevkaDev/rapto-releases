@@ -6,6 +6,24 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.57</title>
+            <description><![CDATA[
+        <h2>Fixes</h2>
+        <ul>
+          <li>After restarting your Mac, Rapto sometimes forgot the mode and layout of your desktops and set them to None. Rapto now recognizes your display after a restart, and brings back the settings it lost this way the first time you open the new version.</li>
+          <li>Dragging a Zen window to another desktop in the desktops bar now works. Rapto used to grab the page instead of the window, so the window stayed where it was.</li>
+          <li>The desktops bar now shows the right icon for apps like Arc that set their own icon after opening. Before, it could keep showing a blank dark square until you reopened the app.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Fri, 06 Nov 2026 00:20:10 +0100</pubDate>
+            <sparkle:version>66</sparkle:version>
+            <sparkle:shortVersionString>5.57</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.57/Rapto.dmg"
+                       sparkle:edSignature="TVHgyCc1Miw3nExi8xuwX1I18sPHrHN1sl+LeJ80Ni9JghU7IaW7F01GzzwO51GmBF+KOvRmYfCWoJjZovVTBw==" length="6149669"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.56</title>
             <description><![CDATA[
         <h2>Fixes</h2>
