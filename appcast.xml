@@ -6,6 +6,32 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.55</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <ul>
+          <li>Workspaces: arrange the apps you use for a task, then right-click the desktop in the desktops bar and choose Workspaces → Save as Workspace…. Open it later on any desktop, or in a new one, and Rapto opens the apps that are closed and puts every window back in its place, on every display. Workspaces can be renamed and deleted from the same menu, or in Settings → Workspaces. If a desktop already has other windows, Rapto asks whether to open the workspace in a new desktop, so two workspaces don't get mixed up. With several displays it asks for each display on its own. Close Workspace closes all of its windows at once, so you can quickly move on to the next one. If a workspace was saved with a display that isn't connected now, Rapto asks whether to open those apps on the display you have or to leave them out.</li>
+          <li>What's New in Settings shows what was added, improved and fixed in each version. It opens on its own after Rapto updates.</li>
+        </ul>
+        <h2>Improvements</h2>
+        <ul>
+          <li>When a new version comes out while Rapto is running, you get a notification, and the Rapto menu shows "Install Rapto…". Before, the update window could open hidden behind other windows.</li>
+          <li>Rapto no longer installs updates silently. It always asks first, so you see what's new before you update.</li>
+        </ul>
+        <h2>Fixes</h2>
+        <ul>
+          <li>The desktops bar now shows every app on a desktop. Before, it showed only six and hid the rest.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Thu, 05 Nov 2026 19:32:14 +0100</pubDate>
+            <sparkle:version>64</sparkle:version>
+            <sparkle:shortVersionString>5.55</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.55/Rapto.dmg"
+                       sparkle:edSignature="pj4QrGaIRVpiqDLrjerPmSwE79UOkLUV1qJP0rBX7+6RUKV8tXPb6IxFvZ907GpQPMB3P+n7ccVEDUMOUoGJAQ==" length="6089762"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.54</title>
             <description><![CDATA[
         <h2>New</h2>
