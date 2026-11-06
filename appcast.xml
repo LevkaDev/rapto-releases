@@ -6,6 +6,23 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.58</title>
+            <description><![CDATA[
+        <h2>Fixes</h2>
+        <ul>
+          <li>Windows no longer get mixed up between slots when you open an app that is on another desktop, for example from the Dock or with ⌘Tab.</li>
+          <li>A new window of an app that already has a slot now opens in that slot, instead of jumping into another one.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Fri, 06 Nov 2026 15:45:48 +0100</pubDate>
+            <sparkle:version>67</sparkle:version>
+            <sparkle:shortVersionString>5.58</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.58/Rapto.dmg"
+                       sparkle:edSignature="wswxYWm9F3MCLQl46FbYpThSw/SHN1IcytGebX0hEpirhGAGtOhxbLPr0KxuHMDdbOYNgWtxNESYMS6FdllUBg==" length="6155099"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.57</title>
             <description><![CDATA[
         <h2>Fixes</h2>
