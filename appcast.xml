@@ -6,6 +6,30 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.60</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <ul>
+          <li>Rapto is ready for Raycast: the Rapto extension is coming to the Raycast Store soon. With it you can switch to any window on any desktop, apply a layout, change the mode or open a workspace right from Raycast.</li>
+        </ul>
+        <h2>Improvements</h2>
+        <ul>
+          <li>A workspace opens on an empty desktop if you have one, instead of adding a new desktop. You can still choose to open it in a new desktop.</li>
+        </ul>
+        <h2>Fixes</h2>
+        <ul>
+          <li>When you open a workspace in a new desktop, its apps no longer get left behind on the old one.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Sat, 07 Nov 2026 15:03:51 +0100</pubDate>
+            <sparkle:version>69</sparkle:version>
+            <sparkle:shortVersionString>5.60</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.60/Rapto.dmg"
+                       sparkle:edSignature="DCoc8HjLNpassAM/qAhd4DoaDLwiyxYzC7lPtraQ+MJFHABQejO06GowvXdFcFzF257G53fYjpLayDH1T1a9DA==" length="6246456"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.59</title>
             <description><![CDATA[
         <h2>New</h2>
