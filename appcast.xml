@@ -6,6 +6,35 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.59</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <ul>
+          <li>Drag to Snap: hold ⌥ while dragging a window to see the zones of your layout and drop the window into any of them. Choose the layout for each desktop in the desktops bar menu.</li>
+          <li>Drag to Snap: drag a window to the bottom edge to put it in the left, center or right third of the screen.</li>
+          <li>Drag to Snap: drag a snapped window away and it gets back its previous size.</li>
+        </ul>
+        <h2>Improvements</h2>
+        <ul>
+          <li>Drag to Snap: the preview shows up right away when you bring a window to the edge, and no longer pops up while you just move a window around.</li>
+          <li>Drag to Snap: the preview grows out of the window and moves smoothly between zones.</li>
+        </ul>
+        <h2>Fixes</h2>
+        <ul>
+          <li>Drag to Snap now works when you drag a window that isn't active.</li>
+          <li>Resizing a window by its edge no longer snaps it to half of the screen.</li>
+          <li>Windows snap into place right away, without jumping or stopping short.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Sat, 07 Nov 2026 12:00:54 +0100</pubDate>
+            <sparkle:version>68</sparkle:version>
+            <sparkle:shortVersionString>5.59</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.59/Rapto.dmg"
+                       sparkle:edSignature="khtxxfsT0Sb+sG3LEndczIaVNs9nWoI21nHlQOUSXcYc0wzj+yWqT44JGRIHBlQYsiGvYT6Na74GPMwhkXQVAQ==" length="6184313"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.58</title>
             <description><![CDATA[
         <h2>Fixes</h2>
