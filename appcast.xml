@@ -6,6 +6,30 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.61</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <ul>
+          <li>Apps in full screen now show up in the desktops bar next to your desktops. Click one to go to it.</li>
+        </ul>
+        <h2>Improvements</h2>
+        <ul>
+          <li>The window list shows windows in full screen too, marked "Full Screen".</li>
+        </ul>
+        <h2>Fixes</h2>
+        <ul>
+          <li>Clicking a desktop in the desktops bar takes you to the right desktop when an app is in full screen, and works from a full screen app too.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Sat, 07 Nov 2026 16:43:18 +0100</pubDate>
+            <sparkle:version>70</sparkle:version>
+            <sparkle:shortVersionString>5.61</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.61/Rapto.dmg"
+                       sparkle:edSignature="UcMDHTYEMSjVL3VWjS+Xf9nGTsuZ9Sz7PPYzAqDPLBpShodk+XsD3ZgIoNJ8xVOrBOFE4lKKZRTfz6ZtRIFDAg==" length="6254131"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.60</title>
             <description><![CDATA[
         <h2>New</h2>
