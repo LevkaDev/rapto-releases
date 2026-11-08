@@ -6,6 +6,26 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.62</title>
+            <description><![CDATA[
+        <h2>Improvements</h2>
+        <ul>
+          <li>The welcome tour has been reworked and improved.</li>
+        </ul>
+        <h2>Fixes</h2>
+        <ul>
+          <li>Moving a Vivaldi window to another desktop from the desktops bar now works.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Sun, 08 Nov 2026 16:18:12 +0100</pubDate>
+            <sparkle:version>71</sparkle:version>
+            <sparkle:shortVersionString>5.62</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.62/Rapto.dmg"
+                       sparkle:edSignature="XPCQz1Vkx9b9jSVebQf0JeTPBRKS+Z0dhbdCoHUrEB9/xOBE4OyITxtWPAJMxbmSAglM96/ziSBaj2db/qK+DA==" length="9494894"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.61</title>
             <description><![CDATA[
         <h2>New</h2>
