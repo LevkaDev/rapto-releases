@@ -6,6 +6,30 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.64</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <ul>
+          <li>Groups in Drag to Snap: drop a window into a zone where another window already is, and they become a group with an indicator, just like in Manual mode. Resize one window of the group and the others follow.</li>
+          <li>Drag to Snap has its own layout on each desktop. Choose a layout, and a dragged window snaps into the zone under the pointer, as in Manual mode. Without a layout, the usual halves, quarters and thirds are used.</li>
+          <li>In Drag to Snap, hold ⌥ while dragging to move a window freely without snapping.</li>
+        </ul>
+        <h2>Improvements</h2>
+        <ul>
+          <li>Switching a desktop from Auto-tiling back to Manual brings back your windows exactly as you arranged them. Windows you opened in the meantime join the slot they are in.</li>
+          <li>In Manual mode each layout remembers how you arranged your windows: switch to another layout and back, and everything is where you left it.</li>
+          <li>Resizing a window in Manual mode resizes all the windows next to it as you drag, keeps the spacing between windows, including the spacing drawn in your own layouts, and stops where a window can't get any smaller.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Mon, 09 Nov 2026 15:20:14 +0100</pubDate>
+            <sparkle:version>73</sparkle:version>
+            <sparkle:shortVersionString>5.64</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.64/Rapto.dmg"
+                       sparkle:edSignature="UB+g722C5NejGo4I5nCjvTNWqnxLGB/G23BM/4lKzS9DsfclrqbZWWcK6YbA/fcvhZEXHLdxtYR5jvccGRYJBw==" length="9382495"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.63</title>
             <description><![CDATA[
         <h2>Improvements</h2>
