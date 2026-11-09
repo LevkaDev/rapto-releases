@@ -6,6 +6,32 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.63</title>
+            <description><![CDATA[
+        <h2>Improvements</h2>
+        <ul>
+          <li>A window in focus mode stays in place: dragging it no longer moves it into another slot or resizes its neighbours.</li>
+          <li>Focus mode works on each display and each desktop on its own: you can have a window in focus on every display.</li>
+        </ul>
+        <h2>Fixes</h2>
+        <ul>
+          <li>Group indicators come back after you close a floating window or a window in focus mode.</li>
+          <li>Group indicators come back when you float a window in focus mode and then return it to its slot.</li>
+          <li>A floating window or a window in focus mode that you minimize or put in full screen goes back to its slot when it returns, and group indicators show up right away.</li>
+          <li>A window can no longer be floating and in focus mode at the same time.</li>
+          <li>A floating window opened by double-click goes back exactly to its place.</li>
+          <li>Double-clicking a video player with the floating or focus key no longer sends the video to full screen.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Mon, 09 Nov 2026 12:35:32 +0100</pubDate>
+            <sparkle:version>72</sparkle:version>
+            <sparkle:shortVersionString>5.63</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.63/Rapto.dmg"
+                       sparkle:edSignature="02ZA5WZPp1xCV1v5VuFbKhYxy+ILqKaKGA/o2x6Q2lAfsHVHerDocGuGr3KOCDktbRH06yK+lqXkgcmxj3aFAg==" length="9521507"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.62</title>
             <description><![CDATA[
         <h2>Improvements</h2>
