@@ -6,6 +6,38 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.65</title>
+            <description><![CDATA[
+        <h2>Improvements</h2>
+        <ul>
+          <li>Rapto stays light and quick, even when another app hangs.</li>
+          <li>Changing one shortcut no longer resets your other shortcuts.</li>
+          <li>You can now turn off any shortcut you don't need.</li>
+          <li>Windows keep their order in slots after a restart.</li>
+          <li>General stability improvements and fixes.</li>
+        </ul>
+        <h2>Fixes</h2>
+        <ul>
+          <li>Group/Ungroup Windows works again, and a second press puts windows back where they were. In the Vim Style preset it is now Option-Shift-G.</li>
+          <li>Focus mode settings are remembered after a restart.</li>
+          <li>Shortcuts stay off in apps where you turned them off.</li>
+          <li>Windows shown on all desktops, like Finder, fit their slot on every desktop.</li>
+          <li>The group indicator no longer disappears after switching desktops.</li>
+          <li>Browser tabs titled Settings or About are arranged like other windows.</li>
+          <li>Desktop numbers match Mission Control with several displays.</li>
+          <li>System Settings stays out of the layout in any language.</li>
+          <li>Claude and similar apps can be moved to another desktop from the desktop bar. For apps shown on all desktops, Rapto explains how to change that.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Tue, 10 Nov 2026 16:37:50 +0100</pubDate>
+            <sparkle:version>74</sparkle:version>
+            <sparkle:shortVersionString>5.65</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.65/Rapto.dmg"
+                       sparkle:edSignature="e8pE1Uorl8n+0GbsIMsSupzhLYYFHl9t0EqINrNCQSWdYzzqv5m/USuXqTv/ZovbHtLJUjAIuu4JfdGxYYDhAA==" length="9426173"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.64</title>
             <description><![CDATA[
         <h2>New</h2>
