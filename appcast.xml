@@ -6,6 +6,30 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.67</title>
+            <description><![CDATA[
+        <h2>Improvements</h2>
+        <ul>
+          <li>The current desktop in the desktop bar is outlined in the color you chose for the active window border.</li>
+        </ul>
+        <h2>Fixes</h2>
+        <ul>
+          <li>An app that updates or opens while your Mac is locked goes into its slot once you unlock.</li>
+          <li>A new document opened from an app's Open window goes into its slot right away.</li>
+          <li>Safari's Settings window and other windows that can't be resized no longer go into slots.</li>
+          <li>Dragging a tab out of Firefox no longer squeezes your slots.</li>
+          <li>A window that opens while its app is still starting goes into its slot instead of staying where it appeared.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Wed, 11 Nov 2026 20:47:29 +0100</pubDate>
+            <sparkle:version>76</sparkle:version>
+            <sparkle:shortVersionString>5.67</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.67/Rapto.dmg"
+                       sparkle:edSignature="ntxff29/n8flcNGAY3Gztcnv4S8v3XQy9hSWHNArPFDPXw+U8VX7k7fHeI1hxiC5N4b4oIVxKTm2fnoG7qNXDQ==" length="9521308"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.66</title>
             <description><![CDATA[
         <h2>New</h2>
