@@ -6,6 +6,30 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.66</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <ul>
+          <li>You can hide standard layouts you don't use: point at one in the layout picker and click Hide. Hidden layouts wait at the end of the picker, where Unhide brings them back.</li>
+        </ul>
+        <h2>Improvements</h2>
+        <ul>
+          <li>You can go back and resize a zone while drawing a layout.</li>
+        </ul>
+        <h2>Fixes</h2>
+        <ul>
+          <li>Layouts follow a change of screen resolution: windows in Manual and Drag to Snap move to their places on the new size by themselves.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Wed, 11 Nov 2026 15:22:54 +0100</pubDate>
+            <sparkle:version>75</sparkle:version>
+            <sparkle:shortVersionString>5.66</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.66/Rapto.dmg"
+                       sparkle:edSignature="PuJ5Quz8mdc9zebOVXoOXYVSM+tGO2EqXA0aqb08yz5LkoPZyqLN/I8kVi9MAwa7DwleJECMqmjEe5YJw+KhAA==" length="9506255"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.65</title>
             <description><![CDATA[
         <h2>Improvements</h2>
