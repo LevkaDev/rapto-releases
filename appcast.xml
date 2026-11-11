@@ -6,6 +6,22 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.68</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <ul>
+          <li>Rapto now warns you when a Mac setting gets in its way, and helps you turn it off.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Wed, 11 Nov 2026 21:34:11 +0100</pubDate>
+            <sparkle:version>77</sparkle:version>
+            <sparkle:shortVersionString>5.68</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.68/Rapto.dmg"
+                       sparkle:edSignature="OUn6SL1ZA7dmNFx2MNF5SQjVIqSUJVRGnTbBUmJJbimbdExF/hidwYfEeIZe2cjAcXrhbfaZWRAasj5VCHm+CQ==" length="9553373"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.67</title>
             <description><![CDATA[
         <h2>Improvements</h2>
