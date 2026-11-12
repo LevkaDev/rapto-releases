@@ -6,6 +6,27 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.69</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <ul>
+          <li>Settings have a new look, with a light and a dark theme. Choose one in Settings → Appearance, or let it follow your Mac.</li>
+          <li>The desktop bar comes in three styles: Dark, Glass and Plain. Glass and Plain go light or dark with the menu bar. Choose one in Settings → Appearance.</li>
+        </ul>
+        <h2>Improvements</h2>
+        <ul>
+          <li>App icons and numbers in the desktop bar are now as large as the icons in your menu bar.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Thu, 12 Nov 2026 02:31:37 +0100</pubDate>
+            <sparkle:version>78</sparkle:version>
+            <sparkle:shortVersionString>5.69</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.69/Rapto.dmg"
+                       sparkle:edSignature="+cLJqZ5V4ONYgojVVRdTUSpoDnMzt1axPoRealeUvwzA2YW4Q1vIkOanJdHiJtuCXVBkeH7OvBIb1qptiB6bAA==" length="9633052"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.68</title>
             <description><![CDATA[
         <h2>New</h2>
