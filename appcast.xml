@@ -6,6 +6,27 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.70</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <ul>
+          <li>Send the active window to another desktop from the keyboard: to the next or previous one, or straight to desktop 1–9. See the keys in Settings → Shortcuts → Move Window to Desktop.</li>
+          <li>Save all your settings, shortcuts, layouts and workspaces to a file and load them back, on this Mac or another one. Find Export and Import in Settings → General → Settings File.</li>
+        </ul>
+        <h2>Improvements</h2>
+        <ul>
+          <li>The window switcher shows each window's own title, so windows of the same app are easy to tell apart.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Fri, 13 Nov 2026 11:30:20 +0100</pubDate>
+            <sparkle:version>79</sparkle:version>
+            <sparkle:shortVersionString>5.70</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.70/Rapto.dmg"
+                       sparkle:edSignature="icoV0QMTs0SYYHZzpMgG4Vh2kF7TyeP5EhvGgpMu/586FTBqasljlJUtTECi3otWKkh6tZfs9GvvWuKNMRQHCA==" length="9715218"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.69</title>
             <description><![CDATA[
         <h2>New</h2>
