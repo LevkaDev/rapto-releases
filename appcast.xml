@@ -6,6 +6,35 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.72</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <ul>
+          <li>In Drag to Snap without a chosen layout, a panel with small layouts appears at the top of the screen as soon as you start dragging a window. Drop the window on any part of a layout to put it there. Screen edges work as before; hold Option to move the window freely.</li>
+        </ul>
+        <h2>Improvements</h2>
+        <ul>
+          <li>Focus mode is now Option + double-click and floating is Option + Command + double-click, so they no longer clash with Shift-click and Control-click in your apps. If you picked your own keys in Settings, they stay.</li>
+          <li>Clearer choices for when the desktops bar shows: Always On, Auto-Hide (hidden on every screen until you point at the menu bar) and Notched Screens (hidden only on screens with a notch).</li>
+          <li>In Auto Tiling, when you float a window, the other windows fill its space right away. When it comes back and no other window was opened or closed meanwhile, every window returns to where it was.</li>
+          <li>In Auto Tiling, opening or closing a window ends focus mode and puts the focused window back in its spot. Switching desktops and coming back keeps everything as you left it.</li>
+        </ul>
+        <h2>Fixes</h2>
+        <ul>
+          <li>In Auto Tiling, a floating window no longer resets the window sizes you set when you come back to a desktop.</li>
+          <li>In Auto Tiling, a window you double-click into focus mode stays there instead of going straight back to its spot.</li>
+          <li>A floating window is no longer pulled into the layout when you come back to a desktop.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Sat, 14 Nov 2026 13:28:24 +0100</pubDate>
+            <sparkle:version>81</sparkle:version>
+            <sparkle:shortVersionString>5.72</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.72/Rapto.dmg"
+                       sparkle:edSignature="hQvdbOOS2D/M53GUoOazNlwje1GQDZXfiBUYIJXhASswByuFbr+eXVuofxtNy0osHsZudD5L+4UaEaTNuaeDDw==" length="9787784"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.71</title>
             <description><![CDATA[
         <h2>New</h2>
