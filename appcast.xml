@@ -6,6 +6,32 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.71</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <ul>
+          <li>When you choose Auto Tiling during setup, you pick how many windows to keep on screen, with a recommendation for your display.</li>
+        </ul>
+        <h2>Improvements</h2>
+        <ul>
+          <li>Auto Tiling has been reworked: it's faster and more stable. Windows keep their place, take their spot right away and no longer jump around.</li>
+          <li>Rapto now also lets you know when Stage Manager is on, and helps you turn it off.</li>
+          <li>You can turn Go With Moved Window on or off even when the desktop bar is hidden. It also works for the shortcuts that send a window to another desktop.</li>
+        </ul>
+        <h2>Fixes</h2>
+        <ul>
+          <li>A window you drag and let go always goes back to its slot, even right after swapping windows.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Sat, 14 Nov 2026 01:49:41 +0100</pubDate>
+            <sparkle:version>80</sparkle:version>
+            <sparkle:shortVersionString>5.71</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.71/Rapto.dmg"
+                       sparkle:edSignature="fGN2tRVJI8wSxIfTsbp1gToJL/5YcPh6ZRF+0qT1mqyY7V3mJ0pPVNyFn6YVVADgt6YHp5OQBNpgcqQbZ6rNBw==" length="9758861"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.70</title>
             <description><![CDATA[
         <h2>New</h2>
