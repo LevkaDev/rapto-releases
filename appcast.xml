@@ -6,6 +6,23 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.74</title>
+            <description><![CDATA[
+        <h2>Improvements</h2>
+        <ul>
+          <li>Smoother window resizing: neighbouring windows follow along as you drag, and the layout stays steady.</li>
+          <li>The active window border now hides while you resize a window and comes back when you let go.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Sun, 15 Nov 2026 19:48:44 +0100</pubDate>
+            <sparkle:version>83</sparkle:version>
+            <sparkle:shortVersionString>5.74</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.74/Rapto.dmg"
+                       sparkle:edSignature="wx/fyXbMJSe0m8ZOP5jrZvvpLCGrFM+V5MS/+nkO4myAfCPl5exH3ptazuw+seK5YqykfAYOd5w9V0VEhKNnAw==" length="9848887"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.73</title>
             <description><![CDATA[
         <h2>Improvements</h2>
