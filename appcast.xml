@@ -6,6 +6,28 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.73</title>
+            <description><![CDATA[
+        <h2>Improvements</h2>
+        <ul>
+          <li>In Auto Tiling, when a new window switches to a layout with one large slot, like one large and two small, or a large center among four, the new window takes the large slot.</li>
+        </ul>
+        <h2>Fixes</h2>
+        <ul>
+          <li>A window no longer shows a group badge when a small window of the same app, like a browser's new tab bar, opens over it.</li>
+          <li>The active window border no longer stays on screen after you close a window or quit some browsers, like Dia.</li>
+          <li>Settings windows of apps like Gemini no longer take a slot and rearrange your windows in Auto Tiling.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Sun, 15 Nov 2026 16:03:56 +0100</pubDate>
+            <sparkle:version>82</sparkle:version>
+            <sparkle:shortVersionString>5.73</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.73/Rapto.dmg"
+                       sparkle:edSignature="2Xg88BVDGqGyq9bqk4wEhemE2sh6e/XeXARQW1uWqgaWEnrhsYPkGhBbFLyVwJsmI7I8UPmx/YCR1mvolpDUDA==" length="9817437"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.72</title>
             <description><![CDATA[
         <h2>New</h2>
