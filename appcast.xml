@@ -6,6 +6,23 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 5.75</title>
+            <description><![CDATA[
+        <h2>Fixes</h2>
+        <ul>
+          <li>Your layout and group indicators come back when you turn a monitor off and on, or plug it back in.</li>
+          <li>In Drag to Snap, the blue highlight that shows where a window will land appears on every desktop.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Tue, 17 Nov 2026 00:31:37 +0100</pubDate>
+            <sparkle:version>84</sparkle:version>
+            <sparkle:shortVersionString>5.75</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v5.75/Rapto.dmg"
+                       sparkle:edSignature="Ya0dIJkGBjd2d29BXUQvvZT3Lr3yZiHnO3lJjKtS6TNJQFKo0WZ6Uqhrzk5D0/52Luv6oGIK3g8QPHzhFdpfCw==" length="9854627"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 5.74</title>
             <description><![CDATA[
         <h2>Improvements</h2>
