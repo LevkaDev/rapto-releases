@@ -6,6 +6,27 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 6.1</title>
+            <description><![CDATA[
+        <h2>New</h2>
+        <ul>
+          <li>Window Flow: press ⌃⌥S to see every window of this display, from all its desktops, as a strip of live previews. Scroll or use the arrow keys, press Return or click to open a window, Esc to go back. Windows you use most come first. Press B to change the backdrop. You can change the shortcut in Settings → Shortcuts.</li>
+          <li>Window Flow works without Screen Recording too: it then shows app icons and window titles instead of previews.</li>
+        </ul>
+        <h2>Fixes: Shortcuts and Settings</h2>
+        <ul>
+          <li>Resize shortcuts now move the border between windows: the windows next to it follow, nothing overlaps and nothing goes past the edge of the screen. A window at the right or bottom edge of the screen resizes from its other side.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Wed, 25 Nov 2026 17:47:46 +0100</pubDate>
+            <sparkle:version>89</sparkle:version>
+            <sparkle:shortVersionString>6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v6.1/Rapto.dmg"
+                       sparkle:edSignature="d4bxzqUVkWW1AU0wUyQFnsz3KS7QPriaXjjhW5Y3lqrnwh+0v0zkvnKIR81z0cAp68GlTLvfWIagEwzRSdN4DA==" length="10769737"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 6.0</title>
             <description><![CDATA[
         <h2>New</h2>
