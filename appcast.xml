@@ -6,6 +6,23 @@
     <description>Most recent updates to Rapto</description>
     <language>en</language>
         <item>
+            <title>Version 6.4</title>
+            <description><![CDATA[
+        <h2>Fixes</h2>
+        <ul>
+          <li>Fixed a crash at launch that could happen on some display setups when the Desktops Bar was on.</li>
+          <li>App icons in the Desktops Bar now stay in place when you switch between windows instead of shuffling or flickering, and auto-hiding bars fade out smoothly.</li>
+        </ul>
+            ]]></description>
+            <pubDate>Fri, 27 Nov 2026 19:15:58 +0100</pubDate>
+            <sparkle:version>92</sparkle:version>
+            <sparkle:shortVersionString>6.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LevkaDev/rapto-releases/releases/download/v6.4/Rapto.dmg"
+                       sparkle:edSignature="voleHBm6oAw8N4TtBSJa26xWwEpne5Uzh5Zm9bTQ9hnhpLlN6of9+Zw/N4hw/aHpzUzyNds0EJfOF0agcsrOCA==" length="11160812"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 6.3</title>
             <description><![CDATA[
         <h2>Improvements</h2>
